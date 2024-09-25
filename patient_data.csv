@@ -1,0 +1,2001 @@
+Patient ID,Ethnicity,Age Band,Gender,Diagnosis,Employment Status,Housing Status
+1,Mixed,46-60,Non-Binary,9,Employed,Living with Family
+2,Other,31-45,Male,5,Student,Renter
+3,Asian,18-30,Female,9,Unemployed,Living with Family
+4,Other,0-17,Male,5,Unemployed,Living with Family
+5,Other,61+,Female,8,Unemployed,Homeless
+6,Black,61+,Non-Binary,1,Student,Living with Family
+7,Asian,0-17,Non-Binary,7,Unemployed,Renter
+8,Asian,0-17,Female,4,Employed,Living with Family
+9,Asian,18-30,Female,5,Retired,Homeless
+10,Other,31-45,Female,6,Student,Owner
+11,Mixed,61+,Non-Binary,5,Unemployed,Renter
+12,Asian,18-30,Male,1,Employed,Renter
+13,Other,31-45,Non-Binary,9,Retired,Homeless
+14,Black,18-30,Female,2,Employed,Homeless
+15,Mixed,61+,Female,9,Unemployed,Homeless
+16,Black,0-17,Non-Binary,2,Employed,Homeless
+17,Mixed,0-17,Female,9,Retired,Renter
+18,Other,31-45,Non-Binary,6,Unemployed,Owner
+19,White,46-60,Female,9,Retired,Living with Family
+20,Mixed,31-45,Male,6,Employed,Living with Family
+21,Black,46-60,Male,6,Student,Owner
+22,Other,18-30,Female,2,Student,Owner
+23,Mixed,18-30,Non-Binary,8,Student,Owner
+24,White,61+,Male,3,Student,Homeless
+25,White,46-60,Non-Binary,7,Retired,Renter
+26,Asian,61+,Female,5,Student,Renter
+27,Asian,0-17,Non-Binary,3,Retired,Renter
+28,Black,46-60,Male,1,Unemployed,Homeless
+29,Mixed,31-45,Non-Binary,8,Student,Renter
+30,Mixed,0-17,Non-Binary,3,Retired,Homeless
+31,Asian,0-17,Female,2,Student,Renter
+32,Mixed,31-45,Female,1,Student,Owner
+33,Mixed,0-17,Female,4,Student,Living with Family
+34,White,46-60,Male,8,Retired,Living with Family
+35,Asian,61+,Male,3,Employed,Homeless
+36,Other,0-17,Female,1,Student,Renter
+37,Asian,46-60,Female,4,Student,Living with Family
+38,Other,18-30,Male,9,Unemployed,Owner
+39,White,46-60,Male,1,Employed,Owner
+40,Black,61+,Male,2,Retired,Owner
+41,Mixed,46-60,Male,9,Unemployed,Homeless
+42,White,31-45,Female,2,Student,Homeless
+43,Mixed,61+,Male,3,Unemployed,Renter
+44,Black,18-30,Female,7,Unemployed,Owner
+45,Black,31-45,Non-Binary,3,Student,Renter
+46,White,46-60,Non-Binary,9,Employed,Renter
+47,Black,61+,Male,6,Employed,Owner
+48,Other,18-30,Non-Binary,3,Unemployed,Renter
+49,Black,31-45,Non-Binary,9,Student,Living with Family
+50,Mixed,18-30,Non-Binary,1,Retired,Homeless
+51,Mixed,46-60,Male,3,Unemployed,Renter
+52,Mixed,18-30,Male,1,Retired,Owner
+53,Mixed,0-17,Non-Binary,2,Unemployed,Homeless
+54,Other,31-45,Female,8,Unemployed,Homeless
+55,Asian,18-30,Non-Binary,7,Student,Renter
+56,White,46-60,Male,2,Student,Living with Family
+57,Mixed,46-60,Male,2,Retired,Renter
+58,Black,18-30,Male,9,Retired,Living with Family
+59,Mixed,46-60,Non-Binary,6,Employed,Homeless
+60,Black,61+,Female,5,Student,Renter
+61,Black,61+,Male,6,Unemployed,Owner
+62,Mixed,61+,Male,9,Unemployed,Renter
+63,Other,0-17,Non-Binary,7,Employed,Living with Family
+64,Black,18-30,Female,9,Student,Living with Family
+65,Black,0-17,Non-Binary,4,Unemployed,Renter
+66,Mixed,46-60,Male,2,Employed,Living with Family
+67,Black,0-17,Female,8,Employed,Homeless
+68,Black,46-60,Female,4,Unemployed,Renter
+69,Mixed,46-60,Male,9,Unemployed,Living with Family
+70,Mixed,31-45,Female,4,Retired,Renter
+71,White,61+,Female,8,Student,Renter
+72,Other,46-60,Non-Binary,9,Retired,Owner
+73,Other,31-45,Male,9,Employed,Renter
+74,Black,61+,Male,4,Unemployed,Owner
+75,Other,46-60,Male,1,Retired,Living with Family
+76,Black,46-60,Male,3,Employed,Owner
+77,White,0-17,Male,9,Student,Owner
+78,Mixed,0-17,Female,4,Unemployed,Owner
+79,Mixed,61+,Non-Binary,5,Retired,Homeless
+80,Mixed,46-60,Male,7,Student,Owner
+81,Other,18-30,Non-Binary,5,Retired,Renter
+82,White,0-17,Non-Binary,4,Employed,Owner
+83,Other,61+,Female,2,Student,Renter
+84,Other,46-60,Male,2,Retired,Owner
+85,White,46-60,Female,4,Student,Homeless
+86,White,18-30,Male,9,Employed,Living with Family
+87,White,61+,Female,8,Student,Owner
+88,White,46-60,Non-Binary,3,Retired,Owner
+89,Mixed,0-17,Male,9,Employed,Homeless
+90,Asian,18-30,Non-Binary,5,Unemployed,Owner
+91,Asian,61+,Non-Binary,3,Retired,Renter
+92,White,18-30,Female,5,Retired,Owner
+93,Asian,0-17,Male,4,Employed,Owner
+94,Asian,61+,Non-Binary,8,Employed,Living with Family
+95,White,18-30,Female,5,Unemployed,Living with Family
+96,Asian,31-45,Male,8,Retired,Owner
+97,Other,0-17,Male,9,Employed,Homeless
+98,Black,0-17,Non-Binary,4,Unemployed,Living with Family
+99,Black,0-17,Male,7,Unemployed,Owner
+100,White,31-45,Non-Binary,2,Employed,Living with Family
+101,Mixed,31-45,Male,6,Retired,Owner
+102,White,46-60,Female,8,Student,Living with Family
+103,Mixed,18-30,Non-Binary,7,Student,Living with Family
+104,Black,46-60,Non-Binary,7,Unemployed,Renter
+105,White,18-30,Male,8,Student,Owner
+106,Other,31-45,Male,7,Student,Owner
+107,Asian,31-45,Non-Binary,5,Employed,Owner
+108,Mixed,46-60,Male,7,Unemployed,Owner
+109,Asian,61+,Female,3,Retired,Living with Family
+110,Asian,46-60,Male,5,Unemployed,Renter
+111,White,18-30,Female,7,Employed,Renter
+112,Asian,46-60,Female,9,Student,Homeless
+113,Other,0-17,Female,2,Retired,Owner
+114,Asian,18-30,Female,4,Unemployed,Homeless
+115,White,18-30,Female,7,Student,Living with Family
+116,Other,61+,Male,1,Unemployed,Homeless
+117,Black,31-45,Female,2,Retired,Owner
+118,Asian,18-30,Male,9,Unemployed,Renter
+119,White,31-45,Female,7,Unemployed,Renter
+120,Black,46-60,Non-Binary,7,Unemployed,Owner
+121,Black,0-17,Female,6,Student,Living with Family
+122,Mixed,61+,Non-Binary,3,Retired,Owner
+123,Other,31-45,Female,3,Retired,Living with Family
+124,Asian,18-30,Female,2,Student,Renter
+125,White,31-45,Female,6,Student,Living with Family
+126,Mixed,18-30,Non-Binary,4,Student,Owner
+127,Other,31-45,Non-Binary,5,Employed,Owner
+128,Mixed,18-30,Female,3,Unemployed,Owner
+129,Other,46-60,Male,6,Unemployed,Living with Family
+130,Other,18-30,Female,3,Retired,Living with Family
+131,Asian,18-30,Non-Binary,8,Unemployed,Living with Family
+132,Other,0-17,Female,9,Employed,Renter
+133,Mixed,18-30,Non-Binary,4,Student,Homeless
+134,Other,0-17,Non-Binary,9,Retired,Homeless
+135,Asian,61+,Non-Binary,7,Retired,Owner
+136,Asian,0-17,Female,3,Unemployed,Renter
+137,Mixed,46-60,Non-Binary,7,Retired,Living with Family
+138,Black,0-17,Non-Binary,1,Student,Owner
+139,Black,61+,Female,3,Retired,Renter
+140,Other,46-60,Non-Binary,6,Student,Owner
+141,White,31-45,Female,4,Employed,Renter
+142,Other,31-45,Non-Binary,7,Employed,Renter
+143,Mixed,0-17,Male,3,Student,Homeless
+144,Mixed,0-17,Male,1,Unemployed,Owner
+145,Mixed,61+,Non-Binary,9,Retired,Living with Family
+146,Mixed,61+,Male,6,Unemployed,Homeless
+147,Mixed,18-30,Female,8,Retired,Homeless
+148,Asian,61+,Male,3,Employed,Living with Family
+149,Black,18-30,Non-Binary,8,Employed,Renter
+150,Mixed,46-60,Non-Binary,2,Employed,Living with Family
+151,White,0-17,Female,4,Retired,Owner
+152,White,46-60,Non-Binary,3,Employed,Living with Family
+153,White,61+,Female,1,Employed,Renter
+154,White,46-60,Male,7,Employed,Living with Family
+155,Asian,46-60,Male,2,Employed,Renter
+156,White,46-60,Female,4,Unemployed,Renter
+157,Mixed,61+,Female,9,Employed,Owner
+158,Other,46-60,Non-Binary,6,Employed,Living with Family
+159,White,18-30,Male,8,Unemployed,Living with Family
+160,Asian,61+,Female,2,Unemployed,Owner
+161,Asian,46-60,Male,7,Retired,Renter
+162,White,61+,Female,6,Student,Living with Family
+163,Other,31-45,Male,9,Employed,Owner
+164,White,18-30,Non-Binary,7,Employed,Renter
+165,Asian,46-60,Male,1,Employed,Owner
+166,Black,31-45,Male,8,Retired,Living with Family
+167,Mixed,31-45,Male,3,Employed,Owner
+168,Asian,61+,Male,2,Student,Homeless
+169,White,31-45,Male,3,Unemployed,Renter
+170,Mixed,18-30,Non-Binary,6,Retired,Homeless
+171,White,18-30,Female,3,Unemployed,Homeless
+172,White,0-17,Male,5,Employed,Renter
+173,Black,18-30,Non-Binary,6,Employed,Renter
+174,Mixed,31-45,Male,8,Employed,Owner
+175,Mixed,18-30,Male,7,Student,Renter
+176,Black,61+,Female,8,Student,Homeless
+177,Asian,0-17,Male,3,Retired,Homeless
+178,White,31-45,Non-Binary,4,Unemployed,Living with Family
+179,Other,0-17,Non-Binary,6,Employed,Renter
+180,White,31-45,Female,7,Employed,Homeless
+181,White,61+,Male,9,Employed,Living with Family
+182,Asian,0-17,Non-Binary,1,Employed,Living with Family
+183,White,46-60,Male,8,Student,Owner
+184,Black,31-45,Male,8,Unemployed,Homeless
+185,Black,46-60,Male,6,Unemployed,Owner
+186,Mixed,0-17,Female,4,Retired,Homeless
+187,Other,46-60,Male,3,Student,Owner
+188,White,46-60,Non-Binary,3,Employed,Owner
+189,White,0-17,Male,6,Unemployed,Renter
+190,Asian,61+,Non-Binary,8,Unemployed,Owner
+191,Black,46-60,Male,7,Student,Renter
+192,Other,46-60,Non-Binary,1,Retired,Living with Family
+193,Mixed,61+,Non-Binary,6,Retired,Homeless
+194,Black,46-60,Male,7,Employed,Living with Family
+195,Mixed,46-60,Male,7,Retired,Homeless
+196,Asian,46-60,Non-Binary,9,Unemployed,Living with Family
+197,Asian,18-30,Female,5,Retired,Homeless
+198,White,61+,Male,1,Employed,Owner
+199,Other,46-60,Female,2,Unemployed,Homeless
+200,Mixed,61+,Male,4,Retired,Homeless
+201,Black,31-45,Male,5,Retired,Living with Family
+202,Asian,31-45,Male,9,Student,Living with Family
+203,White,46-60,Male,1,Employed,Living with Family
+204,White,61+,Female,3,Retired,Renter
+205,Mixed,61+,Male,5,Student,Renter
+206,Asian,61+,Non-Binary,3,Unemployed,Homeless
+207,Other,18-30,Non-Binary,4,Student,Homeless
+208,Asian,31-45,Female,3,Student,Owner
+209,Mixed,61+,Male,4,Retired,Owner
+210,Mixed,61+,Non-Binary,1,Retired,Homeless
+211,Asian,18-30,Female,8,Retired,Renter
+212,Mixed,18-30,Male,4,Student,Homeless
+213,Asian,61+,Non-Binary,7,Unemployed,Owner
+214,Black,0-17,Non-Binary,2,Employed,Renter
+215,Asian,61+,Female,2,Student,Renter
+216,Asian,61+,Male,6,Retired,Owner
+217,Mixed,18-30,Male,2,Employed,Homeless
+218,Mixed,18-30,Non-Binary,6,Unemployed,Living with Family
+219,White,61+,Non-Binary,2,Employed,Homeless
+220,White,61+,Non-Binary,4,Retired,Homeless
+221,Black,61+,Male,7,Student,Owner
+222,White,18-30,Female,8,Student,Renter
+223,Asian,61+,Female,3,Retired,Owner
+224,Mixed,61+,Male,9,Student,Homeless
+225,White,46-60,Female,2,Retired,Living with Family
+226,White,0-17,Non-Binary,8,Student,Living with Family
+227,Black,31-45,Female,8,Student,Living with Family
+228,Black,0-17,Female,4,Student,Owner
+229,Asian,46-60,Female,1,Unemployed,Renter
+230,Mixed,31-45,Non-Binary,1,Unemployed,Owner
+231,Black,61+,Male,2,Retired,Living with Family
+232,White,46-60,Non-Binary,9,Unemployed,Homeless
+233,Mixed,61+,Male,2,Retired,Renter
+234,Mixed,18-30,Male,2,Employed,Owner
+235,White,46-60,Male,6,Employed,Owner
+236,Black,18-30,Female,7,Unemployed,Renter
+237,White,46-60,Female,7,Employed,Renter
+238,Mixed,46-60,Male,9,Employed,Homeless
+239,Other,18-30,Male,6,Student,Renter
+240,Other,31-45,Female,8,Student,Homeless
+241,Asian,0-17,Non-Binary,6,Retired,Living with Family
+242,White,61+,Male,2,Employed,Living with Family
+243,White,46-60,Non-Binary,1,Retired,Owner
+244,Asian,61+,Female,5,Retired,Living with Family
+245,Asian,18-30,Male,9,Employed,Living with Family
+246,Asian,61+,Non-Binary,8,Unemployed,Homeless
+247,Mixed,18-30,Non-Binary,4,Employed,Owner
+248,White,61+,Non-Binary,5,Student,Renter
+249,Mixed,0-17,Female,5,Employed,Owner
+250,Asian,0-17,Female,6,Unemployed,Living with Family
+251,White,0-17,Non-Binary,3,Retired,Renter
+252,Mixed,0-17,Non-Binary,5,Retired,Owner
+253,Mixed,0-17,Female,2,Student,Owner
+254,Asian,0-17,Non-Binary,1,Student,Owner
+255,White,18-30,Non-Binary,1,Student,Owner
+256,Asian,46-60,Female,7,Retired,Homeless
+257,White,61+,Non-Binary,2,Student,Owner
+258,Other,0-17,Non-Binary,4,Employed,Living with Family
+259,Black,18-30,Non-Binary,5,Retired,Living with Family
+260,Black,18-30,Female,7,Unemployed,Homeless
+261,Black,18-30,Non-Binary,2,Retired,Renter
+262,Asian,46-60,Female,6,Employed,Renter
+263,Other,61+,Female,1,Employed,Living with Family
+264,White,46-60,Male,7,Student,Living with Family
+265,Mixed,31-45,Male,9,Retired,Homeless
+266,White,18-30,Non-Binary,5,Retired,Renter
+267,Mixed,31-45,Female,5,Retired,Renter
+268,White,0-17,Male,4,Unemployed,Owner
+269,Other,0-17,Non-Binary,3,Student,Owner
+270,Mixed,46-60,Male,9,Employed,Owner
+271,Asian,61+,Male,5,Employed,Homeless
+272,White,31-45,Female,8,Student,Living with Family
+273,White,61+,Female,9,Employed,Homeless
+274,Mixed,46-60,Male,5,Employed,Renter
+275,Asian,0-17,Male,9,Student,Living with Family
+276,Asian,61+,Female,2,Employed,Owner
+277,Other,61+,Non-Binary,9,Retired,Homeless
+278,Asian,0-17,Female,4,Unemployed,Homeless
+279,Asian,31-45,Male,6,Student,Owner
+280,Asian,0-17,Non-Binary,6,Unemployed,Homeless
+281,Black,61+,Male,6,Employed,Owner
+282,Other,31-45,Non-Binary,2,Employed,Renter
+283,White,31-45,Male,7,Retired,Living with Family
+284,Mixed,0-17,Non-Binary,6,Student,Renter
+285,White,61+,Non-Binary,1,Employed,Renter
+286,Other,46-60,Male,2,Student,Owner
+287,Mixed,61+,Non-Binary,7,Student,Homeless
+288,Other,18-30,Female,1,Student,Renter
+289,Asian,46-60,Male,1,Student,Renter
+290,Mixed,31-45,Female,1,Student,Renter
+291,Asian,46-60,Male,8,Unemployed,Homeless
+292,White,31-45,Non-Binary,4,Retired,Homeless
+293,White,31-45,Non-Binary,4,Student,Owner
+294,Mixed,46-60,Non-Binary,2,Unemployed,Renter
+295,Mixed,31-45,Male,1,Employed,Living with Family
+296,Other,31-45,Female,9,Student,Homeless
+297,Other,18-30,Female,7,Employed,Owner
+298,Asian,61+,Male,4,Student,Renter
+299,Mixed,61+,Male,6,Unemployed,Living with Family
+300,White,18-30,Female,2,Unemployed,Homeless
+301,Other,46-60,Female,7,Unemployed,Living with Family
+302,Other,0-17,Female,2,Retired,Homeless
+303,White,0-17,Female,8,Employed,Owner
+304,Other,0-17,Male,8,Retired,Living with Family
+305,Asian,18-30,Male,1,Student,Renter
+306,Mixed,18-30,Non-Binary,8,Employed,Renter
+307,White,31-45,Female,2,Unemployed,Homeless
+308,Mixed,0-17,Non-Binary,6,Employed,Renter
+309,Other,46-60,Male,1,Unemployed,Living with Family
+310,Other,46-60,Male,5,Retired,Owner
+311,White,0-17,Non-Binary,7,Retired,Homeless
+312,Asian,0-17,Female,1,Unemployed,Living with Family
+313,Black,0-17,Female,2,Unemployed,Homeless
+314,White,18-30,Female,7,Student,Owner
+315,Black,18-30,Female,6,Retired,Homeless
+316,Black,18-30,Non-Binary,3,Retired,Renter
+317,Asian,61+,Non-Binary,2,Student,Renter
+318,Black,46-60,Male,4,Retired,Homeless
+319,Black,46-60,Female,3,Unemployed,Owner
+320,Asian,31-45,Female,7,Employed,Owner
+321,Black,18-30,Female,8,Employed,Renter
+322,Black,61+,Non-Binary,2,Retired,Owner
+323,Black,61+,Female,7,Student,Homeless
+324,White,46-60,Non-Binary,8,Unemployed,Living with Family
+325,White,18-30,Female,6,Employed,Homeless
+326,White,31-45,Female,6,Unemployed,Renter
+327,Asian,18-30,Male,1,Retired,Renter
+328,Other,0-17,Female,4,Retired,Renter
+329,Black,18-30,Female,1,Employed,Owner
+330,Black,0-17,Male,4,Retired,Homeless
+331,Asian,0-17,Non-Binary,2,Student,Living with Family
+332,Black,31-45,Non-Binary,5,Retired,Homeless
+333,White,46-60,Female,9,Retired,Living with Family
+334,Other,18-30,Non-Binary,3,Retired,Homeless
+335,Mixed,0-17,Female,8,Unemployed,Renter
+336,Black,18-30,Male,3,Unemployed,Living with Family
+337,White,46-60,Male,6,Employed,Homeless
+338,Mixed,46-60,Female,4,Employed,Owner
+339,Other,61+,Male,8,Employed,Owner
+340,Mixed,46-60,Male,6,Retired,Homeless
+341,White,31-45,Female,8,Unemployed,Renter
+342,Mixed,0-17,Female,1,Student,Living with Family
+343,Asian,61+,Male,6,Retired,Homeless
+344,Mixed,31-45,Non-Binary,1,Retired,Owner
+345,Black,18-30,Non-Binary,1,Retired,Living with Family
+346,Black,0-17,Female,8,Student,Owner
+347,Asian,46-60,Female,7,Employed,Owner
+348,White,0-17,Non-Binary,3,Student,Homeless
+349,Black,18-30,Male,6,Employed,Owner
+350,Other,61+,Non-Binary,9,Student,Living with Family
+351,Black,61+,Non-Binary,7,Unemployed,Renter
+352,Black,61+,Non-Binary,3,Retired,Homeless
+353,White,46-60,Non-Binary,6,Retired,Living with Family
+354,Mixed,31-45,Female,4,Retired,Homeless
+355,Black,31-45,Female,3,Employed,Owner
+356,Asian,0-17,Male,9,Student,Owner
+357,Mixed,46-60,Male,2,Unemployed,Living with Family
+358,Other,61+,Male,1,Student,Living with Family
+359,White,61+,Male,2,Retired,Renter
+360,Other,18-30,Non-Binary,7,Unemployed,Living with Family
+361,Mixed,18-30,Female,1,Unemployed,Living with Family
+362,Mixed,61+,Female,6,Retired,Homeless
+363,Mixed,61+,Male,7,Student,Owner
+364,Other,46-60,Male,9,Retired,Living with Family
+365,Mixed,31-45,Non-Binary,8,Student,Renter
+366,Other,18-30,Non-Binary,6,Unemployed,Living with Family
+367,Mixed,31-45,Male,3,Unemployed,Owner
+368,Asian,46-60,Female,8,Retired,Living with Family
+369,Mixed,61+,Female,7,Unemployed,Homeless
+370,Other,31-45,Female,3,Employed,Owner
+371,Black,61+,Male,9,Unemployed,Living with Family
+372,Mixed,61+,Female,2,Employed,Homeless
+373,Black,0-17,Non-Binary,3,Unemployed,Owner
+374,Asian,31-45,Non-Binary,2,Retired,Living with Family
+375,White,31-45,Male,1,Retired,Homeless
+376,Asian,61+,Non-Binary,4,Employed,Renter
+377,Mixed,46-60,Male,5,Retired,Homeless
+378,Black,0-17,Female,6,Unemployed,Renter
+379,Black,61+,Female,5,Unemployed,Living with Family
+380,Other,18-30,Female,1,Retired,Homeless
+381,Black,18-30,Non-Binary,3,Unemployed,Renter
+382,Other,0-17,Male,1,Student,Owner
+383,White,46-60,Female,5,Student,Homeless
+384,Mixed,61+,Male,5,Unemployed,Living with Family
+385,Other,31-45,Female,6,Retired,Owner
+386,White,0-17,Non-Binary,8,Employed,Renter
+387,Black,46-60,Non-Binary,1,Retired,Homeless
+388,Black,31-45,Male,4,Employed,Homeless
+389,White,18-30,Non-Binary,1,Retired,Living with Family
+390,Black,18-30,Non-Binary,9,Unemployed,Owner
+391,White,31-45,Male,7,Student,Homeless
+392,Other,0-17,Female,7,Retired,Homeless
+393,Other,18-30,Non-Binary,5,Employed,Owner
+394,White,61+,Male,7,Student,Homeless
+395,Other,31-45,Non-Binary,2,Employed,Owner
+396,Other,31-45,Non-Binary,4,Unemployed,Owner
+397,Other,18-30,Non-Binary,7,Student,Owner
+398,Asian,0-17,Non-Binary,3,Employed,Living with Family
+399,Mixed,61+,Male,2,Retired,Owner
+400,Black,0-17,Male,2,Unemployed,Owner
+401,Asian,46-60,Male,1,Unemployed,Renter
+402,Other,46-60,Non-Binary,5,Unemployed,Renter
+403,White,18-30,Non-Binary,6,Retired,Living with Family
+404,Other,18-30,Non-Binary,6,Retired,Owner
+405,Mixed,18-30,Male,9,Student,Renter
+406,Other,46-60,Non-Binary,4,Retired,Renter
+407,White,0-17,Female,1,Student,Homeless
+408,Mixed,0-17,Non-Binary,6,Unemployed,Owner
+409,Other,18-30,Female,5,Student,Renter
+410,Mixed,61+,Non-Binary,6,Employed,Living with Family
+411,Black,0-17,Male,3,Unemployed,Homeless
+412,Black,46-60,Non-Binary,2,Unemployed,Homeless
+413,Other,31-45,Female,6,Student,Owner
+414,Mixed,31-45,Female,1,Unemployed,Owner
+415,White,31-45,Non-Binary,7,Retired,Homeless
+416,Other,61+,Female,7,Employed,Living with Family
+417,Black,18-30,Female,7,Student,Owner
+418,Black,46-60,Male,1,Student,Owner
+419,Other,61+,Non-Binary,4,Unemployed,Homeless
+420,Mixed,46-60,Non-Binary,7,Retired,Homeless
+421,Black,46-60,Non-Binary,9,Unemployed,Owner
+422,Mixed,18-30,Female,5,Unemployed,Renter
+423,Black,31-45,Non-Binary,2,Student,Owner
+424,Black,18-30,Non-Binary,7,Unemployed,Renter
+425,Asian,61+,Male,1,Employed,Homeless
+426,Black,61+,Male,7,Unemployed,Renter
+427,White,61+,Male,6,Unemployed,Living with Family
+428,Other,18-30,Female,7,Student,Homeless
+429,Other,46-60,Non-Binary,3,Unemployed,Owner
+430,Mixed,46-60,Male,3,Retired,Owner
+431,Black,0-17,Male,7,Student,Homeless
+432,White,61+,Male,2,Unemployed,Homeless
+433,Mixed,46-60,Non-Binary,1,Employed,Living with Family
+434,Asian,0-17,Non-Binary,9,Employed,Homeless
+435,Mixed,46-60,Non-Binary,9,Student,Owner
+436,Mixed,61+,Female,7,Student,Living with Family
+437,Black,31-45,Female,7,Unemployed,Owner
+438,Asian,61+,Male,3,Retired,Renter
+439,Mixed,18-30,Non-Binary,2,Unemployed,Homeless
+440,White,46-60,Male,7,Employed,Renter
+441,White,46-60,Non-Binary,9,Retired,Owner
+442,Other,18-30,Non-Binary,1,Retired,Renter
+443,Asian,18-30,Non-Binary,4,Retired,Renter
+444,Asian,31-45,Female,6,Unemployed,Owner
+445,Other,46-60,Female,7,Employed,Owner
+446,Mixed,46-60,Non-Binary,7,Student,Homeless
+447,Asian,31-45,Male,2,Unemployed,Renter
+448,White,0-17,Non-Binary,4,Student,Living with Family
+449,White,31-45,Non-Binary,5,Retired,Living with Family
+450,Black,61+,Male,1,Retired,Owner
+451,Asian,46-60,Non-Binary,1,Unemployed,Owner
+452,Mixed,18-30,Male,3,Employed,Renter
+453,Other,61+,Female,3,Retired,Owner
+454,Other,46-60,Female,8,Student,Living with Family
+455,Mixed,31-45,Male,9,Student,Homeless
+456,Black,61+,Female,1,Unemployed,Homeless
+457,Other,46-60,Female,2,Student,Renter
+458,Asian,0-17,Male,2,Employed,Homeless
+459,Black,0-17,Female,4,Retired,Owner
+460,Asian,18-30,Non-Binary,2,Student,Owner
+461,White,46-60,Non-Binary,7,Student,Owner
+462,Black,0-17,Male,9,Retired,Owner
+463,Other,31-45,Female,7,Unemployed,Renter
+464,Black,46-60,Non-Binary,6,Student,Homeless
+465,Black,31-45,Non-Binary,1,Unemployed,Living with Family
+466,Black,31-45,Female,9,Unemployed,Homeless
+467,Black,0-17,Female,5,Student,Owner
+468,Asian,46-60,Non-Binary,5,Employed,Living with Family
+469,White,61+,Non-Binary,6,Unemployed,Renter
+470,Mixed,0-17,Male,9,Student,Owner
+471,Black,0-17,Male,8,Unemployed,Owner
+472,Other,46-60,Non-Binary,8,Retired,Living with Family
+473,Black,46-60,Male,8,Employed,Renter
+474,Other,31-45,Non-Binary,1,Employed,Living with Family
+475,Asian,46-60,Non-Binary,1,Retired,Renter
+476,Other,31-45,Male,8,Retired,Owner
+477,Mixed,0-17,Male,5,Unemployed,Homeless
+478,White,18-30,Female,9,Retired,Owner
+479,Other,61+,Female,2,Employed,Homeless
+480,Other,0-17,Female,9,Retired,Homeless
+481,White,46-60,Non-Binary,8,Student,Renter
+482,Mixed,61+,Male,9,Student,Living with Family
+483,Black,18-30,Non-Binary,4,Unemployed,Renter
+484,Other,18-30,Male,1,Employed,Owner
+485,White,31-45,Non-Binary,1,Student,Living with Family
+486,Asian,61+,Female,5,Retired,Homeless
+487,White,31-45,Female,2,Student,Homeless
+488,Asian,0-17,Female,8,Student,Owner
+489,Mixed,61+,Non-Binary,5,Unemployed,Living with Family
+490,Black,0-17,Male,5,Retired,Owner
+491,White,31-45,Male,2,Retired,Owner
+492,Other,61+,Female,7,Retired,Renter
+493,Mixed,31-45,Female,8,Unemployed,Owner
+494,White,61+,Female,1,Retired,Living with Family
+495,Other,31-45,Female,2,Retired,Owner
+496,White,18-30,Male,4,Student,Living with Family
+497,Asian,31-45,Non-Binary,5,Student,Homeless
+498,White,18-30,Non-Binary,2,Retired,Owner
+499,White,31-45,Non-Binary,1,Employed,Living with Family
+500,White,61+,Non-Binary,9,Employed,Homeless
+501,Mixed,61+,Female,1,Retired,Living with Family
+502,White,61+,Female,4,Employed,Homeless
+503,Other,46-60,Female,2,Unemployed,Renter
+504,Asian,0-17,Non-Binary,4,Student,Owner
+505,Asian,61+,Female,8,Unemployed,Owner
+506,White,18-30,Female,8,Student,Homeless
+507,Mixed,61+,Male,9,Employed,Renter
+508,Mixed,46-60,Male,5,Employed,Living with Family
+509,Other,18-30,Female,7,Retired,Renter
+510,White,46-60,Male,3,Employed,Living with Family
+511,Asian,18-30,Male,4,Employed,Living with Family
+512,Mixed,31-45,Female,9,Retired,Owner
+513,White,0-17,Female,1,Retired,Homeless
+514,Mixed,0-17,Female,2,Student,Owner
+515,Mixed,46-60,Female,5,Employed,Owner
+516,Asian,0-17,Non-Binary,3,Student,Owner
+517,Black,46-60,Non-Binary,2,Student,Living with Family
+518,Other,46-60,Female,1,Unemployed,Owner
+519,Other,46-60,Male,3,Employed,Living with Family
+520,Asian,0-17,Female,1,Employed,Homeless
+521,Mixed,46-60,Female,1,Unemployed,Living with Family
+522,White,0-17,Male,1,Student,Living with Family
+523,Mixed,46-60,Non-Binary,8,Employed,Renter
+524,Asian,61+,Female,3,Student,Owner
+525,Other,46-60,Female,1,Unemployed,Owner
+526,Mixed,18-30,Non-Binary,7,Retired,Owner
+527,Other,46-60,Non-Binary,3,Student,Owner
+528,White,31-45,Male,8,Employed,Renter
+529,Other,46-60,Non-Binary,4,Retired,Renter
+530,Other,18-30,Non-Binary,4,Student,Renter
+531,Black,18-30,Non-Binary,5,Student,Renter
+532,Black,0-17,Male,6,Retired,Owner
+533,Black,61+,Non-Binary,7,Retired,Living with Family
+534,Other,46-60,Non-Binary,4,Retired,Homeless
+535,Asian,0-17,Male,8,Employed,Renter
+536,Other,61+,Non-Binary,6,Employed,Living with Family
+537,Asian,46-60,Non-Binary,1,Student,Renter
+538,Asian,31-45,Male,1,Student,Owner
+539,Black,46-60,Female,9,Unemployed,Owner
+540,Mixed,18-30,Male,6,Employed,Living with Family
+541,White,18-30,Non-Binary,8,Student,Living with Family
+542,Black,31-45,Non-Binary,7,Retired,Living with Family
+543,Black,0-17,Non-Binary,6,Retired,Owner
+544,Mixed,61+,Male,4,Employed,Owner
+545,White,46-60,Non-Binary,7,Retired,Homeless
+546,Other,18-30,Non-Binary,9,Unemployed,Living with Family
+547,Other,0-17,Male,7,Student,Homeless
+548,Black,31-45,Female,1,Student,Renter
+549,White,18-30,Female,9,Student,Homeless
+550,Black,31-45,Non-Binary,4,Employed,Renter
+551,Asian,46-60,Male,3,Retired,Renter
+552,Black,61+,Non-Binary,4,Unemployed,Homeless
+553,Black,18-30,Male,4,Employed,Living with Family
+554,Other,18-30,Male,2,Student,Renter
+555,Other,46-60,Female,1,Unemployed,Living with Family
+556,Other,0-17,Female,1,Student,Owner
+557,Asian,61+,Male,8,Student,Renter
+558,Other,18-30,Non-Binary,2,Employed,Owner
+559,White,61+,Female,5,Student,Homeless
+560,Mixed,18-30,Non-Binary,4,Unemployed,Living with Family
+561,White,61+,Female,8,Student,Homeless
+562,White,31-45,Female,2,Retired,Renter
+563,Other,18-30,Non-Binary,9,Student,Owner
+564,Mixed,61+,Female,7,Employed,Renter
+565,Mixed,0-17,Female,7,Unemployed,Homeless
+566,Mixed,31-45,Non-Binary,1,Employed,Living with Family
+567,Asian,31-45,Female,2,Retired,Living with Family
+568,Other,0-17,Female,4,Student,Renter
+569,Mixed,61+,Female,4,Employed,Renter
+570,Asian,46-60,Non-Binary,3,Employed,Owner
+571,Black,0-17,Male,7,Employed,Homeless
+572,Black,61+,Non-Binary,8,Employed,Renter
+573,Asian,0-17,Male,2,Retired,Owner
+574,Asian,0-17,Female,4,Retired,Renter
+575,Other,18-30,Male,3,Student,Living with Family
+576,Other,61+,Non-Binary,2,Student,Owner
+577,Black,46-60,Non-Binary,6,Unemployed,Owner
+578,Mixed,18-30,Female,4,Retired,Renter
+579,Black,0-17,Male,6,Employed,Homeless
+580,Mixed,0-17,Female,2,Employed,Living with Family
+581,Mixed,0-17,Female,4,Unemployed,Homeless
+582,Other,61+,Non-Binary,6,Employed,Owner
+583,White,61+,Male,5,Unemployed,Homeless
+584,White,18-30,Male,3,Student,Owner
+585,Asian,46-60,Male,8,Retired,Homeless
+586,Other,18-30,Male,7,Unemployed,Renter
+587,Mixed,31-45,Female,3,Employed,Homeless
+588,White,0-17,Female,6,Unemployed,Owner
+589,Mixed,0-17,Non-Binary,4,Student,Living with Family
+590,White,0-17,Female,5,Employed,Living with Family
+591,White,18-30,Female,5,Student,Living with Family
+592,White,18-30,Non-Binary,7,Student,Owner
+593,Other,0-17,Non-Binary,5,Unemployed,Homeless
+594,Black,18-30,Non-Binary,3,Student,Living with Family
+595,Mixed,61+,Female,5,Employed,Living with Family
+596,Other,61+,Female,7,Student,Living with Family
+597,Other,18-30,Non-Binary,5,Student,Renter
+598,Other,0-17,Non-Binary,5,Unemployed,Owner
+599,Other,18-30,Non-Binary,9,Student,Owner
+600,Other,18-30,Female,3,Retired,Owner
+601,Asian,18-30,Female,6,Unemployed,Owner
+602,Mixed,31-45,Male,1,Unemployed,Owner
+603,Other,61+,Female,5,Employed,Renter
+604,Mixed,46-60,Female,8,Employed,Homeless
+605,Asian,46-60,Female,5,Employed,Renter
+606,Asian,31-45,Non-Binary,9,Employed,Living with Family
+607,Mixed,18-30,Female,6,Retired,Renter
+608,White,31-45,Non-Binary,8,Unemployed,Owner
+609,Black,31-45,Male,8,Student,Renter
+610,White,0-17,Male,3,Employed,Owner
+611,White,61+,Non-Binary,7,Employed,Renter
+612,White,46-60,Non-Binary,7,Employed,Owner
+613,Other,18-30,Non-Binary,6,Student,Living with Family
+614,Asian,46-60,Female,7,Employed,Owner
+615,White,46-60,Male,2,Student,Renter
+616,Asian,61+,Non-Binary,9,Unemployed,Living with Family
+617,Mixed,46-60,Female,1,Unemployed,Renter
+618,Black,46-60,Male,1,Unemployed,Living with Family
+619,Mixed,31-45,Female,3,Retired,Homeless
+620,Mixed,61+,Male,3,Student,Homeless
+621,Other,0-17,Female,1,Employed,Homeless
+622,Black,18-30,Male,7,Employed,Renter
+623,Mixed,46-60,Male,4,Employed,Renter
+624,Mixed,18-30,Female,2,Employed,Living with Family
+625,Black,0-17,Non-Binary,5,Retired,Living with Family
+626,Black,18-30,Male,6,Employed,Living with Family
+627,Mixed,0-17,Non-Binary,9,Retired,Living with Family
+628,Black,31-45,Female,4,Student,Owner
+629,Mixed,46-60,Non-Binary,2,Unemployed,Homeless
+630,Mixed,0-17,Non-Binary,5,Employed,Owner
+631,Other,18-30,Non-Binary,3,Unemployed,Owner
+632,White,46-60,Non-Binary,2,Student,Owner
+633,Mixed,31-45,Non-Binary,1,Student,Owner
+634,Asian,46-60,Male,2,Employed,Homeless
+635,White,0-17,Male,6,Student,Owner
+636,White,31-45,Male,8,Unemployed,Living with Family
+637,White,18-30,Female,3,Employed,Renter
+638,Other,31-45,Non-Binary,9,Retired,Living with Family
+639,Mixed,31-45,Male,9,Employed,Renter
+640,Other,61+,Female,2,Unemployed,Living with Family
+641,Mixed,31-45,Male,8,Employed,Living with Family
+642,Other,31-45,Male,5,Employed,Renter
+643,Other,46-60,Non-Binary,4,Unemployed,Homeless
+644,Asian,18-30,Female,5,Employed,Owner
+645,Other,46-60,Non-Binary,4,Employed,Living with Family
+646,Black,46-60,Non-Binary,8,Unemployed,Homeless
+647,Asian,0-17,Male,4,Student,Owner
+648,Other,46-60,Non-Binary,6,Unemployed,Homeless
+649,White,61+,Female,2,Employed,Homeless
+650,Black,61+,Non-Binary,5,Retired,Owner
+651,Black,0-17,Non-Binary,6,Retired,Living with Family
+652,Black,18-30,Non-Binary,5,Unemployed,Homeless
+653,Asian,18-30,Male,2,Retired,Living with Family
+654,Other,46-60,Female,7,Employed,Living with Family
+655,Other,46-60,Male,4,Employed,Living with Family
+656,White,46-60,Male,8,Unemployed,Owner
+657,White,18-30,Male,7,Employed,Renter
+658,Black,31-45,Male,7,Student,Living with Family
+659,White,61+,Male,9,Employed,Renter
+660,Asian,31-45,Female,1,Unemployed,Renter
+661,Other,31-45,Non-Binary,6,Student,Homeless
+662,Black,18-30,Male,6,Student,Living with Family
+663,White,31-45,Male,6,Retired,Living with Family
+664,Asian,0-17,Female,6,Employed,Living with Family
+665,Asian,46-60,Female,7,Unemployed,Renter
+666,White,0-17,Non-Binary,6,Retired,Owner
+667,Other,61+,Female,1,Retired,Renter
+668,White,46-60,Non-Binary,3,Employed,Living with Family
+669,Black,31-45,Male,2,Employed,Living with Family
+670,White,61+,Male,6,Unemployed,Living with Family
+671,Asian,46-60,Non-Binary,8,Retired,Renter
+672,White,31-45,Female,3,Unemployed,Living with Family
+673,Other,0-17,Non-Binary,8,Retired,Homeless
+674,Mixed,46-60,Female,8,Retired,Living with Family
+675,White,31-45,Male,5,Retired,Owner
+676,Other,0-17,Female,8,Employed,Homeless
+677,Other,61+,Non-Binary,6,Retired,Living with Family
+678,Asian,61+,Non-Binary,5,Retired,Homeless
+679,Other,61+,Male,9,Retired,Living with Family
+680,Other,61+,Female,7,Student,Owner
+681,Other,18-30,Female,8,Employed,Living with Family
+682,Other,46-60,Female,1,Student,Homeless
+683,Black,46-60,Male,2,Employed,Owner
+684,Black,18-30,Female,8,Unemployed,Renter
+685,Asian,31-45,Non-Binary,9,Student,Owner
+686,White,31-45,Female,4,Unemployed,Owner
+687,Other,61+,Male,9,Retired,Owner
+688,White,0-17,Female,4,Unemployed,Homeless
+689,White,31-45,Female,9,Unemployed,Owner
+690,Asian,0-17,Non-Binary,7,Unemployed,Living with Family
+691,Other,46-60,Female,2,Unemployed,Owner
+692,Other,0-17,Non-Binary,9,Employed,Owner
+693,Mixed,46-60,Non-Binary,4,Student,Living with Family
+694,White,18-30,Male,8,Employed,Living with Family
+695,White,18-30,Non-Binary,7,Employed,Renter
+696,Black,61+,Non-Binary,7,Employed,Owner
+697,Mixed,31-45,Male,8,Unemployed,Homeless
+698,Black,61+,Non-Binary,1,Employed,Owner
+699,Black,46-60,Male,5,Student,Owner
+700,Black,61+,Female,2,Employed,Living with Family
+701,Asian,0-17,Male,2,Retired,Renter
+702,Asian,46-60,Non-Binary,1,Unemployed,Owner
+703,Black,18-30,Male,5,Retired,Homeless
+704,Mixed,31-45,Non-Binary,2,Student,Owner
+705,White,46-60,Female,4,Student,Homeless
+706,Mixed,46-60,Male,3,Student,Living with Family
+707,Other,0-17,Female,3,Student,Renter
+708,Asian,31-45,Non-Binary,2,Employed,Owner
+709,White,18-30,Non-Binary,6,Unemployed,Renter
+710,White,46-60,Female,2,Student,Owner
+711,Other,46-60,Male,8,Retired,Homeless
+712,Other,0-17,Male,8,Student,Renter
+713,Black,61+,Non-Binary,5,Unemployed,Owner
+714,Asian,18-30,Female,7,Retired,Living with Family
+715,Asian,31-45,Female,4,Retired,Homeless
+716,Mixed,46-60,Male,1,Retired,Renter
+717,Black,46-60,Male,2,Employed,Owner
+718,Black,18-30,Male,4,Student,Renter
+719,Black,61+,Female,1,Employed,Owner
+720,Black,46-60,Male,8,Retired,Homeless
+721,Asian,18-30,Male,9,Employed,Living with Family
+722,Asian,0-17,Non-Binary,4,Employed,Homeless
+723,Black,61+,Male,3,Employed,Renter
+724,Mixed,31-45,Male,2,Student,Renter
+725,White,46-60,Female,5,Retired,Owner
+726,White,18-30,Female,3,Retired,Homeless
+727,Mixed,0-17,Non-Binary,7,Student,Owner
+728,Black,31-45,Male,6,Employed,Homeless
+729,Asian,18-30,Non-Binary,1,Employed,Renter
+730,White,18-30,Female,8,Unemployed,Owner
+731,Other,31-45,Non-Binary,2,Unemployed,Owner
+732,Other,0-17,Female,5,Unemployed,Homeless
+733,Mixed,0-17,Non-Binary,9,Student,Living with Family
+734,Black,61+,Non-Binary,8,Retired,Homeless
+735,White,46-60,Male,2,Unemployed,Living with Family
+736,Black,31-45,Non-Binary,9,Retired,Homeless
+737,White,31-45,Male,5,Retired,Renter
+738,Mixed,31-45,Male,6,Retired,Owner
+739,Mixed,0-17,Male,3,Student,Homeless
+740,Other,46-60,Male,3,Student,Renter
+741,Black,61+,Non-Binary,8,Student,Homeless
+742,Other,18-30,Female,2,Student,Owner
+743,Black,18-30,Female,2,Unemployed,Homeless
+744,Other,31-45,Female,5,Employed,Living with Family
+745,Asian,46-60,Non-Binary,6,Employed,Owner
+746,Asian,0-17,Male,2,Employed,Living with Family
+747,Asian,46-60,Female,5,Unemployed,Renter
+748,Asian,46-60,Non-Binary,7,Employed,Renter
+749,White,0-17,Male,8,Unemployed,Homeless
+750,Asian,31-45,Female,7,Unemployed,Living with Family
+751,Mixed,46-60,Male,8,Unemployed,Living with Family
+752,Mixed,18-30,Female,9,Employed,Owner
+753,White,0-17,Female,5,Retired,Living with Family
+754,Asian,61+,Female,5,Employed,Living with Family
+755,Asian,31-45,Male,4,Employed,Owner
+756,Asian,0-17,Non-Binary,9,Student,Owner
+757,Other,61+,Male,5,Unemployed,Living with Family
+758,Black,61+,Female,2,Retired,Homeless
+759,Other,46-60,Male,8,Student,Owner
+760,Black,46-60,Non-Binary,7,Retired,Owner
+761,Asian,46-60,Male,8,Retired,Living with Family
+762,Asian,0-17,Non-Binary,3,Unemployed,Living with Family
+763,Other,0-17,Non-Binary,4,Employed,Owner
+764,Other,31-45,Male,5,Unemployed,Living with Family
+765,Black,46-60,Female,6,Unemployed,Owner
+766,Mixed,61+,Non-Binary,1,Student,Homeless
+767,Black,18-30,Male,4,Unemployed,Homeless
+768,Other,31-45,Non-Binary,5,Employed,Owner
+769,Other,0-17,Female,7,Retired,Owner
+770,White,31-45,Male,5,Unemployed,Renter
+771,Other,31-45,Male,1,Retired,Renter
+772,White,31-45,Male,7,Unemployed,Living with Family
+773,Mixed,31-45,Female,8,Retired,Living with Family
+774,Black,18-30,Non-Binary,7,Unemployed,Owner
+775,Black,46-60,Male,4,Student,Owner
+776,White,61+,Non-Binary,8,Retired,Renter
+777,Black,31-45,Non-Binary,5,Unemployed,Renter
+778,Other,31-45,Female,9,Unemployed,Owner
+779,Asian,31-45,Male,5,Student,Homeless
+780,White,46-60,Non-Binary,1,Student,Homeless
+781,Black,0-17,Male,9,Student,Living with Family
+782,White,0-17,Male,5,Retired,Owner
+783,White,18-30,Female,6,Retired,Owner
+784,Asian,0-17,Male,4,Student,Living with Family
+785,Other,31-45,Male,6,Employed,Renter
+786,White,31-45,Non-Binary,8,Employed,Renter
+787,Black,31-45,Female,3,Unemployed,Homeless
+788,Mixed,18-30,Male,5,Employed,Owner
+789,White,31-45,Non-Binary,2,Unemployed,Renter
+790,White,0-17,Female,2,Retired,Homeless
+791,Asian,46-60,Female,7,Retired,Homeless
+792,Other,46-60,Non-Binary,6,Employed,Homeless
+793,Mixed,61+,Non-Binary,4,Retired,Renter
+794,Black,0-17,Non-Binary,5,Student,Renter
+795,Mixed,31-45,Non-Binary,1,Student,Owner
+796,Black,46-60,Non-Binary,7,Employed,Owner
+797,Other,0-17,Male,8,Employed,Homeless
+798,Black,46-60,Male,9,Unemployed,Homeless
+799,Asian,31-45,Female,8,Retired,Renter
+800,Asian,46-60,Male,5,Unemployed,Renter
+801,Asian,61+,Male,3,Unemployed,Owner
+802,Asian,61+,Male,9,Student,Owner
+803,Mixed,46-60,Non-Binary,6,Student,Living with Family
+804,Other,0-17,Female,5,Student,Owner
+805,Black,0-17,Female,3,Student,Renter
+806,Black,0-17,Female,6,Unemployed,Homeless
+807,Asian,46-60,Female,3,Student,Living with Family
+808,Asian,0-17,Male,6,Retired,Owner
+809,White,31-45,Male,4,Student,Owner
+810,Other,61+,Non-Binary,2,Student,Renter
+811,Mixed,31-45,Female,8,Student,Living with Family
+812,Black,0-17,Male,4,Employed,Owner
+813,White,31-45,Male,9,Retired,Homeless
+814,White,0-17,Non-Binary,7,Retired,Renter
+815,Black,46-60,Non-Binary,2,Unemployed,Living with Family
+816,Mixed,31-45,Non-Binary,4,Unemployed,Owner
+817,White,46-60,Male,5,Student,Owner
+818,White,46-60,Male,3,Employed,Living with Family
+819,Other,18-30,Non-Binary,9,Unemployed,Renter
+820,Mixed,0-17,Female,5,Unemployed,Living with Family
+821,White,61+,Non-Binary,2,Student,Living with Family
+822,Mixed,0-17,Non-Binary,3,Student,Renter
+823,Black,61+,Non-Binary,9,Unemployed,Owner
+824,Asian,0-17,Non-Binary,7,Unemployed,Homeless
+825,White,46-60,Male,2,Retired,Renter
+826,Other,31-45,Female,9,Employed,Homeless
+827,Black,31-45,Non-Binary,4,Retired,Owner
+828,Mixed,18-30,Female,9,Unemployed,Living with Family
+829,Black,61+,Female,2,Retired,Homeless
+830,White,61+,Female,4,Retired,Owner
+831,Mixed,61+,Non-Binary,5,Unemployed,Owner
+832,Asian,46-60,Male,2,Student,Living with Family
+833,Black,61+,Non-Binary,1,Unemployed,Living with Family
+834,White,31-45,Female,7,Student,Owner
+835,Other,46-60,Female,1,Unemployed,Owner
+836,Mixed,0-17,Male,8,Unemployed,Homeless
+837,Black,61+,Non-Binary,3,Unemployed,Owner
+838,Black,61+,Female,6,Employed,Owner
+839,Asian,0-17,Male,7,Student,Homeless
+840,Asian,61+,Female,1,Employed,Renter
+841,Other,0-17,Male,6,Unemployed,Homeless
+842,Other,46-60,Male,7,Retired,Homeless
+843,White,31-45,Non-Binary,6,Employed,Living with Family
+844,White,0-17,Female,4,Student,Homeless
+845,Other,18-30,Non-Binary,1,Unemployed,Owner
+846,Other,0-17,Female,9,Employed,Owner
+847,Mixed,61+,Non-Binary,4,Retired,Owner
+848,Asian,46-60,Female,7,Employed,Renter
+849,White,46-60,Non-Binary,7,Student,Owner
+850,Asian,0-17,Male,2,Employed,Renter
+851,Asian,31-45,Female,1,Retired,Owner
+852,Other,18-30,Female,8,Retired,Homeless
+853,Mixed,46-60,Male,8,Student,Living with Family
+854,Black,61+,Non-Binary,7,Retired,Owner
+855,Mixed,61+,Female,8,Unemployed,Renter
+856,Mixed,31-45,Female,3,Retired,Renter
+857,Asian,46-60,Non-Binary,2,Unemployed,Living with Family
+858,Mixed,0-17,Male,7,Employed,Owner
+859,White,61+,Non-Binary,8,Unemployed,Homeless
+860,Asian,31-45,Non-Binary,1,Unemployed,Owner
+861,White,46-60,Non-Binary,9,Employed,Owner
+862,Black,46-60,Female,4,Retired,Living with Family
+863,Asian,46-60,Male,4,Unemployed,Owner
+864,Black,46-60,Male,3,Retired,Homeless
+865,Asian,46-60,Non-Binary,6,Employed,Renter
+866,Other,61+,Female,1,Student,Living with Family
+867,Mixed,31-45,Non-Binary,6,Retired,Homeless
+868,Other,46-60,Female,2,Retired,Renter
+869,Black,18-30,Female,9,Student,Living with Family
+870,Mixed,18-30,Female,2,Student,Living with Family
+871,Asian,31-45,Female,7,Employed,Renter
+872,Mixed,0-17,Male,1,Retired,Renter
+873,White,0-17,Female,7,Retired,Homeless
+874,Mixed,0-17,Female,5,Employed,Owner
+875,White,18-30,Non-Binary,8,Retired,Owner
+876,Mixed,0-17,Non-Binary,4,Unemployed,Owner
+877,White,61+,Male,7,Unemployed,Owner
+878,Black,46-60,Non-Binary,6,Unemployed,Owner
+879,Other,18-30,Female,5,Retired,Homeless
+880,Asian,31-45,Non-Binary,4,Unemployed,Living with Family
+881,Mixed,31-45,Male,7,Unemployed,Homeless
+882,Other,46-60,Non-Binary,5,Employed,Homeless
+883,Asian,18-30,Non-Binary,5,Employed,Homeless
+884,Asian,0-17,Male,1,Student,Living with Family
+885,White,0-17,Male,2,Student,Homeless
+886,Black,61+,Female,5,Student,Homeless
+887,Black,61+,Non-Binary,3,Student,Living with Family
+888,Other,0-17,Female,2,Employed,Homeless
+889,Black,31-45,Non-Binary,4,Employed,Owner
+890,Mixed,31-45,Non-Binary,4,Employed,Renter
+891,Black,61+,Female,4,Unemployed,Homeless
+892,Other,46-60,Non-Binary,4,Unemployed,Renter
+893,Black,0-17,Non-Binary,3,Student,Homeless
+894,Mixed,61+,Non-Binary,7,Unemployed,Homeless
+895,White,61+,Male,9,Retired,Owner
+896,Other,0-17,Female,5,Employed,Living with Family
+897,White,0-17,Male,4,Student,Renter
+898,White,31-45,Female,2,Student,Living with Family
+899,White,46-60,Female,2,Retired,Owner
+900,Asian,46-60,Non-Binary,5,Unemployed,Owner
+901,Asian,0-17,Female,7,Student,Renter
+902,White,18-30,Male,9,Unemployed,Living with Family
+903,Other,61+,Male,7,Unemployed,Owner
+904,Mixed,61+,Male,5,Retired,Homeless
+905,Mixed,0-17,Female,6,Student,Homeless
+906,Black,18-30,Male,3,Unemployed,Homeless
+907,Other,31-45,Female,5,Unemployed,Living with Family
+908,Asian,0-17,Male,8,Retired,Homeless
+909,White,0-17,Male,1,Retired,Homeless
+910,Black,61+,Female,1,Unemployed,Owner
+911,Mixed,0-17,Male,7,Retired,Owner
+912,Asian,0-17,Non-Binary,5,Unemployed,Homeless
+913,Asian,0-17,Female,5,Student,Homeless
+914,White,61+,Female,1,Employed,Owner
+915,Mixed,31-45,Female,9,Retired,Renter
+916,Other,31-45,Non-Binary,1,Employed,Living with Family
+917,Asian,0-17,Female,5,Unemployed,Living with Family
+918,White,61+,Male,9,Unemployed,Owner
+919,Other,31-45,Male,4,Unemployed,Living with Family
+920,Mixed,31-45,Male,8,Employed,Owner
+921,Asian,31-45,Female,6,Unemployed,Owner
+922,Other,61+,Male,3,Retired,Owner
+923,Other,61+,Female,4,Student,Owner
+924,Other,0-17,Male,2,Student,Renter
+925,Asian,46-60,Non-Binary,1,Retired,Homeless
+926,Asian,31-45,Non-Binary,8,Student,Homeless
+927,Black,46-60,Non-Binary,1,Employed,Renter
+928,Mixed,61+,Non-Binary,1,Unemployed,Living with Family
+929,White,61+,Female,4,Unemployed,Living with Family
+930,Other,61+,Male,6,Unemployed,Homeless
+931,Black,46-60,Non-Binary,9,Employed,Living with Family
+932,White,61+,Female,1,Employed,Homeless
+933,Black,0-17,Non-Binary,7,Employed,Homeless
+934,Asian,61+,Non-Binary,5,Retired,Renter
+935,Other,18-30,Female,8,Employed,Living with Family
+936,White,46-60,Female,7,Student,Renter
+937,White,18-30,Male,4,Retired,Homeless
+938,White,61+,Male,4,Retired,Homeless
+939,White,0-17,Non-Binary,6,Retired,Homeless
+940,White,31-45,Non-Binary,6,Employed,Owner
+941,Black,61+,Male,9,Retired,Owner
+942,Other,0-17,Male,5,Employed,Owner
+943,Asian,46-60,Female,8,Employed,Renter
+944,Asian,18-30,Male,5,Retired,Homeless
+945,Asian,18-30,Male,2,Unemployed,Living with Family
+946,Asian,18-30,Non-Binary,6,Unemployed,Renter
+947,Black,46-60,Male,9,Retired,Renter
+948,Mixed,0-17,Non-Binary,3,Unemployed,Renter
+949,Other,46-60,Male,1,Student,Living with Family
+950,White,18-30,Female,1,Student,Homeless
+951,Mixed,61+,Male,3,Employed,Owner
+952,Asian,31-45,Male,5,Unemployed,Homeless
+953,Mixed,46-60,Male,3,Student,Homeless
+954,Other,46-60,Non-Binary,9,Retired,Renter
+955,White,0-17,Female,8,Unemployed,Renter
+956,White,0-17,Male,3,Student,Renter
+957,Other,46-60,Non-Binary,9,Student,Owner
+958,Other,18-30,Female,6,Retired,Owner
+959,Asian,31-45,Non-Binary,7,Employed,Owner
+960,White,0-17,Non-Binary,4,Retired,Homeless
+961,Mixed,18-30,Female,4,Employed,Renter
+962,Black,61+,Male,2,Student,Living with Family
+963,Black,0-17,Non-Binary,5,Employed,Homeless
+964,Other,18-30,Non-Binary,8,Student,Owner
+965,Asian,18-30,Male,7,Student,Living with Family
+966,Black,31-45,Male,7,Unemployed,Living with Family
+967,White,31-45,Female,6,Employed,Renter
+968,Other,61+,Female,3,Employed,Living with Family
+969,Mixed,18-30,Female,5,Employed,Owner
+970,Other,18-30,Male,1,Retired,Renter
+971,Mixed,31-45,Non-Binary,7,Unemployed,Living with Family
+972,Other,0-17,Non-Binary,9,Unemployed,Renter
+973,Other,0-17,Female,1,Unemployed,Living with Family
+974,Other,46-60,Male,2,Retired,Homeless
+975,Mixed,31-45,Non-Binary,3,Employed,Homeless
+976,Mixed,46-60,Female,3,Employed,Owner
+977,Other,31-45,Non-Binary,8,Employed,Homeless
+978,Black,61+,Non-Binary,7,Unemployed,Homeless
+979,Asian,18-30,Male,6,Unemployed,Homeless
+980,Asian,61+,Male,4,Student,Living with Family
+981,Asian,31-45,Non-Binary,9,Retired,Living with Family
+982,Mixed,18-30,Female,1,Retired,Renter
+983,Mixed,0-17,Male,2,Unemployed,Living with Family
+984,Black,0-17,Non-Binary,4,Student,Homeless
+985,Asian,46-60,Male,3,Employed,Living with Family
+986,Asian,31-45,Male,1,Unemployed,Owner
+987,Other,31-45,Male,5,Retired,Renter
+988,Mixed,0-17,Non-Binary,7,Retired,Renter
+989,Asian,61+,Female,2,Retired,Living with Family
+990,Black,18-30,Female,5,Employed,Homeless
+991,Black,61+,Female,6,Retired,Renter
+992,Asian,61+,Male,7,Employed,Owner
+993,Mixed,0-17,Non-Binary,1,Employed,Owner
+994,Black,0-17,Male,7,Employed,Renter
+995,Other,0-17,Female,4,Unemployed,Homeless
+996,Black,46-60,Female,8,Employed,Homeless
+997,White,61+,Non-Binary,4,Student,Living with Family
+998,White,31-45,Male,6,Retired,Living with Family
+999,Mixed,18-30,Female,9,Unemployed,Renter
+1000,Asian,46-60,Non-Binary,5,Retired,Living with Family
+1001,Mixed,31-45,Male,4,Employed,Living with Family
+1002,Mixed,61+,Male,8,Unemployed,Living with Family
+1003,Mixed,0-17,Female,9,Student,Owner
+1004,Mixed,61+,Female,4,Employed,Living with Family
+1005,Other,18-30,Male,3,Retired,Renter
+1006,Other,46-60,Male,8,Student,Homeless
+1007,Black,46-60,Female,5,Employed,Living with Family
+1008,White,18-30,Male,2,Student,Homeless
+1009,Mixed,31-45,Female,9,Employed,Living with Family
+1010,Black,31-45,Male,3,Unemployed,Renter
+1011,White,46-60,Female,2,Employed,Owner
+1012,Asian,46-60,Non-Binary,1,Unemployed,Renter
+1013,Other,0-17,Female,8,Employed,Owner
+1014,White,31-45,Female,3,Employed,Living with Family
+1015,Asian,18-30,Non-Binary,7,Retired,Living with Family
+1016,White,31-45,Male,1,Student,Owner
+1017,Other,0-17,Non-Binary,1,Student,Renter
+1018,Other,46-60,Female,9,Student,Renter
+1019,Black,46-60,Male,8,Employed,Owner
+1020,Mixed,0-17,Non-Binary,3,Employed,Living with Family
+1021,White,18-30,Male,6,Employed,Owner
+1022,White,46-60,Male,3,Unemployed,Living with Family
+1023,Asian,61+,Non-Binary,4,Unemployed,Owner
+1024,Other,46-60,Male,1,Retired,Living with Family
+1025,White,61+,Non-Binary,5,Employed,Owner
+1026,Other,0-17,Female,1,Student,Homeless
+1027,White,0-17,Male,1,Student,Living with Family
+1028,Black,46-60,Female,7,Retired,Renter
+1029,Mixed,31-45,Female,6,Student,Owner
+1030,White,61+,Male,2,Retired,Renter
+1031,Other,18-30,Non-Binary,2,Employed,Owner
+1032,Black,46-60,Male,7,Student,Renter
+1033,White,18-30,Female,1,Employed,Renter
+1034,Asian,46-60,Female,2,Unemployed,Owner
+1035,Mixed,31-45,Non-Binary,8,Student,Owner
+1036,White,31-45,Male,6,Unemployed,Renter
+1037,Black,31-45,Female,2,Student,Renter
+1038,Asian,31-45,Female,7,Employed,Renter
+1039,Black,0-17,Female,4,Retired,Living with Family
+1040,Black,0-17,Non-Binary,2,Employed,Living with Family
+1041,Asian,61+,Female,6,Employed,Homeless
+1042,Black,18-30,Female,9,Employed,Living with Family
+1043,Asian,46-60,Male,9,Student,Living with Family
+1044,White,46-60,Male,8,Retired,Owner
+1045,Asian,0-17,Female,3,Unemployed,Homeless
+1046,Asian,46-60,Female,3,Employed,Homeless
+1047,Mixed,0-17,Male,2,Student,Living with Family
+1048,Asian,61+,Non-Binary,5,Unemployed,Owner
+1049,Asian,18-30,Non-Binary,4,Employed,Owner
+1050,White,61+,Non-Binary,7,Unemployed,Homeless
+1051,Mixed,31-45,Non-Binary,4,Employed,Owner
+1052,Other,31-45,Non-Binary,9,Unemployed,Renter
+1053,White,31-45,Non-Binary,2,Unemployed,Living with Family
+1054,White,61+,Non-Binary,6,Retired,Renter
+1055,Other,46-60,Non-Binary,7,Retired,Homeless
+1056,Asian,18-30,Male,4,Employed,Homeless
+1057,Black,31-45,Non-Binary,6,Student,Owner
+1058,Mixed,31-45,Non-Binary,7,Retired,Owner
+1059,Black,31-45,Non-Binary,4,Unemployed,Homeless
+1060,Other,18-30,Female,8,Retired,Homeless
+1061,White,31-45,Male,9,Retired,Renter
+1062,White,18-30,Male,1,Employed,Renter
+1063,Mixed,31-45,Male,7,Retired,Owner
+1064,White,61+,Non-Binary,9,Retired,Renter
+1065,White,61+,Non-Binary,5,Unemployed,Owner
+1066,Mixed,18-30,Female,2,Retired,Owner
+1067,Mixed,61+,Male,6,Unemployed,Living with Family
+1068,Other,18-30,Non-Binary,7,Retired,Owner
+1069,White,61+,Male,2,Retired,Renter
+1070,White,61+,Female,2,Student,Homeless
+1071,Other,18-30,Female,1,Retired,Homeless
+1072,Asian,46-60,Female,4,Unemployed,Renter
+1073,Asian,61+,Male,7,Unemployed,Homeless
+1074,Asian,31-45,Non-Binary,9,Employed,Owner
+1075,Other,46-60,Non-Binary,3,Employed,Homeless
+1076,White,18-30,Female,7,Student,Renter
+1077,Other,46-60,Non-Binary,7,Unemployed,Homeless
+1078,Other,0-17,Female,7,Unemployed,Owner
+1079,Asian,0-17,Male,2,Unemployed,Owner
+1080,Black,61+,Female,6,Student,Renter
+1081,White,61+,Male,2,Unemployed,Renter
+1082,Asian,31-45,Female,6,Employed,Renter
+1083,Black,46-60,Non-Binary,3,Student,Living with Family
+1084,Black,0-17,Non-Binary,2,Employed,Living with Family
+1085,Mixed,61+,Female,6,Employed,Owner
+1086,White,46-60,Non-Binary,2,Student,Living with Family
+1087,Black,61+,Non-Binary,5,Retired,Living with Family
+1088,Asian,61+,Non-Binary,2,Retired,Homeless
+1089,Mixed,0-17,Male,3,Employed,Living with Family
+1090,White,0-17,Non-Binary,3,Retired,Homeless
+1091,Other,61+,Male,6,Unemployed,Renter
+1092,Asian,18-30,Female,6,Student,Homeless
+1093,Black,61+,Non-Binary,3,Employed,Homeless
+1094,Black,61+,Non-Binary,3,Unemployed,Renter
+1095,Asian,31-45,Non-Binary,1,Retired,Renter
+1096,Black,31-45,Female,7,Unemployed,Owner
+1097,Mixed,31-45,Male,8,Retired,Owner
+1098,White,18-30,Male,2,Employed,Owner
+1099,Mixed,18-30,Non-Binary,4,Unemployed,Owner
+1100,Black,61+,Female,7,Student,Homeless
+1101,Other,31-45,Female,8,Employed,Homeless
+1102,White,18-30,Female,1,Unemployed,Owner
+1103,White,0-17,Female,4,Unemployed,Living with Family
+1104,Asian,61+,Female,6,Retired,Owner
+1105,Asian,46-60,Male,3,Employed,Living with Family
+1106,Other,61+,Male,5,Employed,Renter
+1107,White,46-60,Male,9,Employed,Homeless
+1108,Other,31-45,Non-Binary,3,Employed,Homeless
+1109,Asian,46-60,Female,5,Retired,Living with Family
+1110,Asian,31-45,Non-Binary,8,Student,Owner
+1111,White,0-17,Female,6,Employed,Homeless
+1112,Mixed,46-60,Male,4,Retired,Living with Family
+1113,Black,61+,Non-Binary,8,Student,Renter
+1114,Asian,31-45,Male,3,Student,Renter
+1115,Asian,61+,Female,3,Retired,Homeless
+1116,Mixed,18-30,Female,4,Employed,Owner
+1117,Mixed,31-45,Female,9,Student,Living with Family
+1118,Other,46-60,Male,5,Employed,Homeless
+1119,Other,31-45,Female,8,Employed,Renter
+1120,Black,61+,Male,6,Unemployed,Owner
+1121,Black,0-17,Non-Binary,3,Employed,Living with Family
+1122,White,31-45,Female,8,Unemployed,Homeless
+1123,Other,46-60,Female,9,Student,Living with Family
+1124,Asian,18-30,Female,8,Retired,Owner
+1125,Other,0-17,Non-Binary,4,Unemployed,Owner
+1126,Asian,18-30,Female,6,Retired,Renter
+1127,Mixed,31-45,Male,1,Student,Owner
+1128,Other,61+,Male,4,Employed,Homeless
+1129,Mixed,61+,Female,8,Student,Living with Family
+1130,Black,46-60,Female,1,Retired,Owner
+1131,Black,61+,Non-Binary,3,Student,Owner
+1132,White,0-17,Non-Binary,1,Employed,Homeless
+1133,Other,61+,Non-Binary,9,Student,Living with Family
+1134,Mixed,46-60,Female,2,Employed,Living with Family
+1135,Asian,31-45,Non-Binary,9,Unemployed,Renter
+1136,Black,31-45,Non-Binary,4,Retired,Renter
+1137,Black,61+,Male,2,Employed,Living with Family
+1138,Asian,18-30,Non-Binary,4,Employed,Homeless
+1139,Mixed,31-45,Male,6,Student,Homeless
+1140,Mixed,61+,Male,7,Unemployed,Renter
+1141,Other,46-60,Non-Binary,3,Employed,Owner
+1142,Other,61+,Male,3,Unemployed,Homeless
+1143,White,31-45,Female,8,Unemployed,Owner
+1144,Black,46-60,Female,5,Student,Homeless
+1145,Other,61+,Non-Binary,4,Employed,Living with Family
+1146,Mixed,0-17,Female,7,Student,Renter
+1147,Asian,46-60,Male,7,Retired,Owner
+1148,Mixed,0-17,Female,9,Retired,Owner
+1149,Black,18-30,Non-Binary,9,Employed,Living with Family
+1150,Mixed,46-60,Non-Binary,5,Unemployed,Homeless
+1151,White,0-17,Male,8,Employed,Owner
+1152,Black,31-45,Non-Binary,1,Employed,Homeless
+1153,Asian,31-45,Female,9,Retired,Living with Family
+1154,White,18-30,Non-Binary,8,Retired,Renter
+1155,Black,46-60,Male,6,Unemployed,Owner
+1156,Asian,46-60,Non-Binary,3,Unemployed,Homeless
+1157,White,46-60,Female,3,Employed,Owner
+1158,White,18-30,Male,8,Student,Homeless
+1159,Black,46-60,Female,5,Employed,Homeless
+1160,Other,31-45,Male,7,Unemployed,Homeless
+1161,White,0-17,Non-Binary,5,Student,Living with Family
+1162,White,31-45,Male,8,Retired,Renter
+1163,Asian,31-45,Male,4,Unemployed,Owner
+1164,Mixed,0-17,Non-Binary,2,Unemployed,Renter
+1165,Black,31-45,Female,3,Student,Homeless
+1166,Black,18-30,Non-Binary,8,Unemployed,Homeless
+1167,Other,0-17,Male,7,Unemployed,Renter
+1168,Other,31-45,Non-Binary,2,Unemployed,Renter
+1169,Black,61+,Male,6,Unemployed,Owner
+1170,Other,31-45,Non-Binary,9,Unemployed,Homeless
+1171,Asian,18-30,Non-Binary,4,Unemployed,Renter
+1172,Black,46-60,Female,9,Unemployed,Living with Family
+1173,Other,31-45,Male,2,Unemployed,Homeless
+1174,Black,46-60,Female,2,Retired,Homeless
+1175,Mixed,61+,Male,9,Unemployed,Owner
+1176,White,31-45,Non-Binary,7,Retired,Living with Family
+1177,Black,0-17,Male,7,Retired,Owner
+1178,White,46-60,Female,1,Employed,Living with Family
+1179,Other,61+,Female,6,Employed,Owner
+1180,White,0-17,Female,7,Retired,Living with Family
+1181,Black,0-17,Male,6,Retired,Living with Family
+1182,Mixed,0-17,Female,6,Unemployed,Living with Family
+1183,Other,0-17,Female,2,Employed,Renter
+1184,Black,31-45,Female,6,Student,Homeless
+1185,Other,31-45,Non-Binary,4,Employed,Living with Family
+1186,Asian,31-45,Non-Binary,9,Retired,Renter
+1187,White,61+,Male,1,Retired,Renter
+1188,Asian,61+,Male,8,Unemployed,Owner
+1189,Black,61+,Female,5,Unemployed,Homeless
+1190,Mixed,18-30,Non-Binary,1,Employed,Homeless
+1191,Other,61+,Female,4,Unemployed,Owner
+1192,White,31-45,Female,1,Student,Homeless
+1193,Other,31-45,Non-Binary,6,Student,Owner
+1194,Black,18-30,Non-Binary,2,Unemployed,Renter
+1195,Other,18-30,Non-Binary,5,Student,Renter
+1196,White,61+,Male,7,Student,Living with Family
+1197,Black,46-60,Male,2,Employed,Owner
+1198,Other,18-30,Female,6,Student,Renter
+1199,Mixed,0-17,Male,6,Retired,Renter
+1200,Black,31-45,Non-Binary,5,Retired,Owner
+1201,Black,0-17,Non-Binary,5,Employed,Renter
+1202,Mixed,31-45,Male,3,Unemployed,Homeless
+1203,Asian,31-45,Female,2,Employed,Renter
+1204,White,18-30,Female,7,Unemployed,Owner
+1205,Asian,18-30,Male,1,Unemployed,Homeless
+1206,Other,0-17,Female,6,Unemployed,Homeless
+1207,Mixed,31-45,Female,6,Unemployed,Renter
+1208,Asian,0-17,Female,3,Unemployed,Living with Family
+1209,Black,46-60,Non-Binary,2,Employed,Homeless
+1210,Other,0-17,Non-Binary,2,Unemployed,Owner
+1211,Other,61+,Male,9,Student,Living with Family
+1212,Asian,0-17,Non-Binary,5,Student,Living with Family
+1213,Asian,61+,Female,7,Unemployed,Homeless
+1214,Mixed,61+,Non-Binary,5,Student,Renter
+1215,White,61+,Male,7,Retired,Living with Family
+1216,Asian,46-60,Non-Binary,4,Employed,Renter
+1217,Asian,0-17,Female,8,Employed,Homeless
+1218,Black,0-17,Female,7,Unemployed,Owner
+1219,Other,46-60,Male,5,Unemployed,Living with Family
+1220,White,31-45,Non-Binary,6,Retired,Owner
+1221,Black,18-30,Non-Binary,5,Unemployed,Renter
+1222,Mixed,0-17,Non-Binary,7,Student,Renter
+1223,Mixed,18-30,Female,2,Retired,Owner
+1224,Asian,46-60,Male,5,Student,Homeless
+1225,Asian,31-45,Non-Binary,3,Employed,Homeless
+1226,Mixed,31-45,Female,9,Student,Living with Family
+1227,Asian,31-45,Female,6,Employed,Living with Family
+1228,White,46-60,Female,3,Student,Homeless
+1229,Asian,61+,Non-Binary,7,Employed,Homeless
+1230,Other,61+,Non-Binary,4,Unemployed,Owner
+1231,Asian,18-30,Non-Binary,3,Student,Renter
+1232,Black,61+,Non-Binary,8,Employed,Renter
+1233,White,61+,Non-Binary,4,Student,Living with Family
+1234,Black,31-45,Non-Binary,1,Retired,Homeless
+1235,Black,31-45,Non-Binary,6,Unemployed,Owner
+1236,Other,18-30,Non-Binary,1,Employed,Living with Family
+1237,White,0-17,Non-Binary,5,Retired,Owner
+1238,White,18-30,Female,7,Student,Homeless
+1239,White,18-30,Non-Binary,6,Retired,Homeless
+1240,White,46-60,Male,2,Student,Homeless
+1241,White,46-60,Female,4,Unemployed,Renter
+1242,Other,18-30,Non-Binary,2,Retired,Homeless
+1243,Asian,18-30,Male,1,Unemployed,Living with Family
+1244,Black,18-30,Non-Binary,3,Employed,Renter
+1245,White,61+,Male,3,Student,Owner
+1246,Asian,46-60,Male,7,Student,Living with Family
+1247,Asian,18-30,Male,1,Unemployed,Living with Family
+1248,Black,31-45,Male,9,Unemployed,Owner
+1249,Other,31-45,Female,6,Employed,Renter
+1250,Mixed,61+,Female,4,Retired,Living with Family
+1251,Mixed,61+,Male,3,Student,Living with Family
+1252,Asian,0-17,Non-Binary,3,Student,Living with Family
+1253,Black,0-17,Male,2,Employed,Renter
+1254,Mixed,0-17,Female,2,Employed,Renter
+1255,Asian,61+,Non-Binary,5,Unemployed,Renter
+1256,Other,61+,Female,9,Unemployed,Living with Family
+1257,Mixed,61+,Female,2,Retired,Homeless
+1258,Asian,31-45,Non-Binary,2,Employed,Owner
+1259,Asian,61+,Male,6,Retired,Homeless
+1260,White,31-45,Male,2,Employed,Renter
+1261,Other,0-17,Male,4,Student,Living with Family
+1262,White,0-17,Male,6,Employed,Living with Family
+1263,Black,0-17,Non-Binary,5,Employed,Homeless
+1264,White,18-30,Non-Binary,1,Student,Homeless
+1265,White,18-30,Non-Binary,6,Employed,Owner
+1266,Mixed,46-60,Female,1,Retired,Living with Family
+1267,Asian,46-60,Non-Binary,3,Unemployed,Homeless
+1268,Other,46-60,Male,5,Unemployed,Owner
+1269,White,18-30,Female,5,Retired,Renter
+1270,Other,18-30,Male,6,Student,Homeless
+1271,White,46-60,Male,8,Employed,Renter
+1272,Black,46-60,Non-Binary,5,Retired,Owner
+1273,White,61+,Non-Binary,1,Unemployed,Renter
+1274,Mixed,46-60,Male,5,Unemployed,Living with Family
+1275,Asian,61+,Male,3,Retired,Living with Family
+1276,Black,31-45,Female,4,Unemployed,Renter
+1277,White,18-30,Non-Binary,8,Retired,Living with Family
+1278,Other,46-60,Female,7,Unemployed,Owner
+1279,Black,18-30,Female,5,Retired,Living with Family
+1280,Black,18-30,Female,2,Employed,Renter
+1281,White,18-30,Male,6,Employed,Renter
+1282,Black,31-45,Female,6,Employed,Renter
+1283,Other,0-17,Female,6,Employed,Homeless
+1284,Black,46-60,Male,9,Unemployed,Renter
+1285,Other,0-17,Non-Binary,8,Student,Owner
+1286,White,0-17,Non-Binary,8,Retired,Living with Family
+1287,Asian,0-17,Female,1,Student,Living with Family
+1288,Black,18-30,Male,5,Unemployed,Homeless
+1289,Asian,61+,Non-Binary,7,Unemployed,Homeless
+1290,Other,18-30,Female,6,Student,Owner
+1291,Black,18-30,Female,5,Student,Renter
+1292,Mixed,0-17,Male,8,Unemployed,Homeless
+1293,Asian,18-30,Female,3,Unemployed,Living with Family
+1294,Black,0-17,Non-Binary,6,Retired,Homeless
+1295,Asian,61+,Male,5,Employed,Homeless
+1296,Black,46-60,Non-Binary,8,Employed,Renter
+1297,White,0-17,Non-Binary,4,Retired,Homeless
+1298,Asian,61+,Non-Binary,8,Student,Owner
+1299,Mixed,46-60,Female,2,Unemployed,Living with Family
+1300,Mixed,31-45,Female,9,Student,Renter
+1301,Other,0-17,Non-Binary,9,Employed,Living with Family
+1302,Black,0-17,Non-Binary,6,Employed,Owner
+1303,Asian,31-45,Male,4,Student,Owner
+1304,Other,31-45,Male,4,Employed,Homeless
+1305,Asian,0-17,Female,6,Unemployed,Homeless
+1306,Black,31-45,Female,5,Retired,Homeless
+1307,Mixed,18-30,Male,6,Student,Living with Family
+1308,White,46-60,Non-Binary,7,Unemployed,Owner
+1309,Mixed,46-60,Female,7,Unemployed,Renter
+1310,Other,46-60,Non-Binary,9,Employed,Homeless
+1311,White,18-30,Male,8,Unemployed,Living with Family
+1312,Other,31-45,Female,6,Student,Homeless
+1313,Black,61+,Female,6,Unemployed,Owner
+1314,White,31-45,Male,5,Retired,Renter
+1315,Other,0-17,Female,1,Unemployed,Owner
+1316,Black,46-60,Male,9,Unemployed,Living with Family
+1317,Mixed,31-45,Female,9,Retired,Homeless
+1318,Black,61+,Male,9,Unemployed,Owner
+1319,Asian,0-17,Female,8,Unemployed,Living with Family
+1320,Black,18-30,Non-Binary,3,Employed,Homeless
+1321,Black,18-30,Non-Binary,1,Student,Renter
+1322,Asian,61+,Non-Binary,8,Employed,Owner
+1323,Other,0-17,Female,7,Student,Homeless
+1324,Other,46-60,Female,5,Retired,Homeless
+1325,Black,31-45,Non-Binary,7,Retired,Homeless
+1326,Asian,0-17,Non-Binary,4,Retired,Homeless
+1327,Asian,18-30,Male,9,Student,Owner
+1328,Mixed,61+,Male,2,Student,Homeless
+1329,Other,61+,Male,9,Student,Living with Family
+1330,White,31-45,Non-Binary,9,Retired,Owner
+1331,Other,61+,Non-Binary,5,Student,Homeless
+1332,Other,61+,Non-Binary,1,Unemployed,Owner
+1333,Mixed,0-17,Male,7,Employed,Living with Family
+1334,White,46-60,Female,4,Retired,Living with Family
+1335,Mixed,31-45,Non-Binary,9,Employed,Owner
+1336,White,0-17,Female,6,Unemployed,Homeless
+1337,Black,46-60,Female,3,Student,Homeless
+1338,White,0-17,Female,6,Employed,Living with Family
+1339,Mixed,0-17,Male,6,Unemployed,Homeless
+1340,Other,61+,Female,5,Unemployed,Living with Family
+1341,White,46-60,Non-Binary,2,Employed,Homeless
+1342,White,31-45,Male,2,Retired,Living with Family
+1343,Asian,31-45,Non-Binary,7,Employed,Renter
+1344,Other,46-60,Non-Binary,2,Retired,Homeless
+1345,Black,61+,Male,6,Student,Homeless
+1346,Mixed,18-30,Non-Binary,5,Retired,Homeless
+1347,Black,0-17,Non-Binary,4,Student,Owner
+1348,Other,61+,Male,7,Employed,Homeless
+1349,White,46-60,Non-Binary,8,Student,Owner
+1350,White,0-17,Female,4,Unemployed,Owner
+1351,Other,31-45,Non-Binary,1,Student,Living with Family
+1352,White,18-30,Female,1,Retired,Owner
+1353,White,31-45,Non-Binary,1,Retired,Owner
+1354,White,46-60,Male,1,Retired,Renter
+1355,Mixed,0-17,Male,5,Student,Homeless
+1356,Mixed,46-60,Non-Binary,4,Retired,Owner
+1357,Asian,0-17,Male,9,Retired,Homeless
+1358,Black,61+,Non-Binary,3,Unemployed,Owner
+1359,Other,18-30,Male,7,Student,Living with Family
+1360,Other,61+,Female,8,Unemployed,Renter
+1361,Other,61+,Non-Binary,6,Retired,Owner
+1362,Asian,46-60,Female,1,Retired,Homeless
+1363,Mixed,18-30,Female,8,Retired,Living with Family
+1364,Asian,0-17,Non-Binary,3,Student,Homeless
+1365,Other,0-17,Female,8,Employed,Living with Family
+1366,Black,31-45,Non-Binary,4,Retired,Renter
+1367,White,0-17,Female,8,Retired,Living with Family
+1368,Mixed,46-60,Non-Binary,1,Retired,Homeless
+1369,Mixed,61+,Non-Binary,3,Retired,Homeless
+1370,Asian,61+,Male,6,Student,Owner
+1371,Mixed,61+,Non-Binary,9,Employed,Living with Family
+1372,Other,18-30,Non-Binary,2,Employed,Homeless
+1373,Other,0-17,Female,1,Employed,Owner
+1374,Asian,46-60,Non-Binary,3,Retired,Renter
+1375,Other,18-30,Male,4,Retired,Homeless
+1376,Black,31-45,Female,5,Employed,Owner
+1377,Asian,46-60,Female,3,Employed,Homeless
+1378,Black,46-60,Male,2,Retired,Living with Family
+1379,White,46-60,Female,2,Retired,Owner
+1380,Black,61+,Female,7,Unemployed,Living with Family
+1381,White,46-60,Female,9,Unemployed,Renter
+1382,White,0-17,Female,2,Unemployed,Living with Family
+1383,Black,46-60,Male,7,Employed,Owner
+1384,Asian,61+,Male,7,Student,Homeless
+1385,Other,46-60,Female,7,Retired,Owner
+1386,Other,31-45,Female,3,Unemployed,Living with Family
+1387,White,31-45,Male,7,Student,Living with Family
+1388,White,61+,Male,1,Retired,Homeless
+1389,Asian,0-17,Male,1,Student,Renter
+1390,Mixed,0-17,Female,5,Employed,Owner
+1391,Black,18-30,Female,2,Employed,Homeless
+1392,White,61+,Non-Binary,9,Employed,Homeless
+1393,Other,46-60,Male,7,Unemployed,Homeless
+1394,Asian,61+,Female,4,Retired,Owner
+1395,Black,18-30,Male,4,Employed,Owner
+1396,Asian,61+,Female,2,Unemployed,Owner
+1397,Black,61+,Male,5,Unemployed,Renter
+1398,Black,18-30,Female,4,Unemployed,Homeless
+1399,White,0-17,Non-Binary,1,Unemployed,Living with Family
+1400,Asian,46-60,Non-Binary,8,Employed,Living with Family
+1401,Asian,18-30,Male,3,Unemployed,Homeless
+1402,Other,31-45,Female,6,Employed,Living with Family
+1403,Other,0-17,Female,4,Employed,Renter
+1404,White,31-45,Male,9,Unemployed,Renter
+1405,White,0-17,Female,7,Employed,Owner
+1406,Mixed,46-60,Male,9,Retired,Owner
+1407,Other,46-60,Female,3,Retired,Owner
+1408,Black,61+,Male,1,Student,Owner
+1409,Asian,31-45,Female,5,Retired,Owner
+1410,White,0-17,Male,3,Employed,Living with Family
+1411,Asian,46-60,Female,6,Employed,Living with Family
+1412,Asian,18-30,Non-Binary,8,Retired,Owner
+1413,Mixed,46-60,Female,4,Unemployed,Renter
+1414,Other,18-30,Male,5,Unemployed,Living with Family
+1415,White,0-17,Non-Binary,5,Employed,Renter
+1416,Asian,46-60,Female,4,Unemployed,Renter
+1417,White,46-60,Non-Binary,4,Student,Homeless
+1418,Black,0-17,Female,4,Student,Homeless
+1419,Mixed,46-60,Non-Binary,4,Retired,Owner
+1420,Black,18-30,Male,4,Retired,Renter
+1421,White,46-60,Female,5,Unemployed,Living with Family
+1422,White,31-45,Female,2,Employed,Homeless
+1423,Other,61+,Male,2,Retired,Homeless
+1424,Asian,18-30,Non-Binary,9,Student,Renter
+1425,Asian,31-45,Male,2,Retired,Homeless
+1426,Black,0-17,Male,6,Retired,Homeless
+1427,Mixed,18-30,Non-Binary,2,Student,Living with Family
+1428,Asian,61+,Male,5,Employed,Renter
+1429,Other,61+,Female,4,Retired,Homeless
+1430,Black,0-17,Female,7,Retired,Renter
+1431,Black,0-17,Female,7,Retired,Homeless
+1432,Other,18-30,Male,6,Unemployed,Living with Family
+1433,Mixed,46-60,Female,5,Retired,Renter
+1434,Other,0-17,Female,1,Student,Homeless
+1435,Mixed,46-60,Female,3,Employed,Living with Family
+1436,Other,31-45,Female,9,Employed,Homeless
+1437,Other,61+,Female,1,Student,Renter
+1438,White,46-60,Female,5,Unemployed,Homeless
+1439,Black,61+,Male,2,Student,Renter
+1440,Other,46-60,Female,4,Employed,Renter
+1441,Other,31-45,Female,1,Student,Homeless
+1442,Asian,0-17,Non-Binary,3,Unemployed,Living with Family
+1443,Black,31-45,Male,7,Employed,Owner
+1444,Asian,0-17,Male,3,Unemployed,Living with Family
+1445,Black,0-17,Male,4,Student,Living with Family
+1446,Asian,61+,Male,2,Retired,Homeless
+1447,Other,31-45,Female,3,Student,Living with Family
+1448,Other,46-60,Female,9,Unemployed,Living with Family
+1449,White,31-45,Non-Binary,3,Student,Owner
+1450,Asian,61+,Non-Binary,5,Retired,Living with Family
+1451,Mixed,0-17,Male,2,Unemployed,Owner
+1452,White,61+,Non-Binary,4,Student,Homeless
+1453,Asian,18-30,Non-Binary,7,Unemployed,Owner
+1454,Asian,18-30,Male,7,Unemployed,Renter
+1455,White,46-60,Male,3,Employed,Renter
+1456,Other,61+,Non-Binary,5,Employed,Owner
+1457,Asian,46-60,Female,1,Unemployed,Renter
+1458,Other,46-60,Non-Binary,1,Student,Homeless
+1459,White,18-30,Non-Binary,5,Student,Renter
+1460,Other,46-60,Female,9,Student,Owner
+1461,Black,18-30,Female,1,Retired,Homeless
+1462,Mixed,0-17,Male,1,Unemployed,Renter
+1463,Asian,61+,Male,4,Unemployed,Homeless
+1464,Mixed,46-60,Non-Binary,4,Retired,Owner
+1465,Other,18-30,Female,2,Unemployed,Renter
+1466,Asian,31-45,Male,9,Unemployed,Homeless
+1467,Other,46-60,Non-Binary,9,Retired,Homeless
+1468,Black,0-17,Female,2,Employed,Renter
+1469,White,0-17,Non-Binary,9,Unemployed,Homeless
+1470,Asian,31-45,Male,6,Retired,Homeless
+1471,Black,18-30,Male,8,Student,Owner
+1472,Black,46-60,Female,4,Employed,Owner
+1473,Asian,18-30,Non-Binary,2,Student,Owner
+1474,Other,0-17,Female,2,Unemployed,Owner
+1475,Black,18-30,Male,9,Employed,Owner
+1476,Mixed,0-17,Male,1,Retired,Owner
+1477,Black,18-30,Non-Binary,7,Unemployed,Renter
+1478,Other,31-45,Non-Binary,3,Retired,Owner
+1479,Other,61+,Non-Binary,3,Employed,Homeless
+1480,Mixed,31-45,Female,2,Student,Renter
+1481,Black,31-45,Non-Binary,6,Unemployed,Homeless
+1482,Other,61+,Non-Binary,2,Unemployed,Owner
+1483,Asian,61+,Male,4,Retired,Owner
+1484,White,46-60,Male,9,Employed,Homeless
+1485,White,46-60,Non-Binary,9,Retired,Homeless
+1486,White,31-45,Non-Binary,6,Employed,Homeless
+1487,Black,31-45,Male,4,Unemployed,Living with Family
+1488,Mixed,0-17,Non-Binary,7,Employed,Living with Family
+1489,Other,0-17,Female,1,Unemployed,Living with Family
+1490,Asian,46-60,Female,4,Employed,Living with Family
+1491,Asian,46-60,Female,5,Student,Renter
+1492,Black,0-17,Non-Binary,8,Employed,Owner
+1493,White,0-17,Male,2,Student,Homeless
+1494,Black,18-30,Non-Binary,5,Employed,Owner
+1495,Mixed,18-30,Non-Binary,6,Employed,Homeless
+1496,Mixed,0-17,Male,5,Retired,Owner
+1497,Other,18-30,Male,9,Retired,Renter
+1498,Other,61+,Male,1,Unemployed,Living with Family
+1499,Mixed,46-60,Female,3,Retired,Owner
+1500,Mixed,46-60,Non-Binary,2,Employed,Homeless
+1501,Mixed,0-17,Male,3,Retired,Owner
+1502,Black,31-45,Non-Binary,9,Employed,Renter
+1503,Mixed,0-17,Female,9,Student,Renter
+1504,Asian,18-30,Female,2,Employed,Owner
+1505,White,31-45,Male,3,Unemployed,Living with Family
+1506,Mixed,18-30,Male,4,Student,Homeless
+1507,White,61+,Non-Binary,9,Unemployed,Renter
+1508,Black,18-30,Male,3,Unemployed,Renter
+1509,White,61+,Non-Binary,7,Unemployed,Owner
+1510,Black,61+,Male,3,Retired,Renter
+1511,Asian,18-30,Non-Binary,7,Unemployed,Renter
+1512,Black,18-30,Non-Binary,7,Student,Homeless
+1513,Black,61+,Non-Binary,9,Employed,Living with Family
+1514,Other,31-45,Non-Binary,2,Unemployed,Homeless
+1515,Mixed,61+,Female,6,Student,Living with Family
+1516,Mixed,46-60,Non-Binary,9,Unemployed,Homeless
+1517,Asian,61+,Male,2,Employed,Owner
+1518,Asian,31-45,Female,2,Student,Renter
+1519,Mixed,46-60,Female,5,Student,Living with Family
+1520,Other,0-17,Non-Binary,8,Employed,Owner
+1521,Mixed,0-17,Female,9,Student,Renter
+1522,Other,31-45,Non-Binary,2,Employed,Renter
+1523,Asian,61+,Male,5,Student,Renter
+1524,White,18-30,Non-Binary,7,Student,Homeless
+1525,Asian,31-45,Female,6,Employed,Owner
+1526,Asian,46-60,Male,6,Employed,Owner
+1527,Black,46-60,Non-Binary,7,Student,Renter
+1528,Black,0-17,Male,3,Student,Living with Family
+1529,Black,46-60,Male,3,Employed,Owner
+1530,Black,31-45,Female,9,Retired,Homeless
+1531,Other,46-60,Male,8,Employed,Living with Family
+1532,Mixed,31-45,Female,5,Student,Living with Family
+1533,White,18-30,Male,6,Student,Living with Family
+1534,Asian,0-17,Non-Binary,1,Student,Living with Family
+1535,Other,46-60,Male,1,Employed,Owner
+1536,White,31-45,Non-Binary,4,Student,Renter
+1537,Other,61+,Non-Binary,2,Retired,Living with Family
+1538,Other,0-17,Male,7,Unemployed,Homeless
+1539,Asian,18-30,Non-Binary,2,Retired,Homeless
+1540,Mixed,31-45,Male,2,Employed,Renter
+1541,Black,18-30,Male,5,Student,Owner
+1542,Mixed,18-30,Non-Binary,4,Employed,Renter
+1543,Asian,46-60,Non-Binary,8,Unemployed,Living with Family
+1544,Asian,46-60,Female,4,Employed,Owner
+1545,Asian,31-45,Non-Binary,6,Student,Owner
+1546,White,61+,Female,5,Unemployed,Living with Family
+1547,Mixed,31-45,Non-Binary,2,Unemployed,Homeless
+1548,Mixed,61+,Male,8,Student,Living with Family
+1549,Other,18-30,Non-Binary,2,Student,Renter
+1550,Other,0-17,Male,9,Student,Living with Family
+1551,Other,31-45,Male,9,Employed,Homeless
+1552,Asian,31-45,Male,3,Retired,Living with Family
+1553,Mixed,61+,Female,4,Employed,Renter
+1554,Asian,18-30,Non-Binary,8,Employed,Renter
+1555,White,18-30,Male,9,Retired,Homeless
+1556,Other,61+,Male,3,Student,Renter
+1557,Asian,18-30,Female,5,Student,Renter
+1558,Asian,46-60,Non-Binary,8,Retired,Living with Family
+1559,White,0-17,Non-Binary,3,Retired,Owner
+1560,Black,31-45,Female,7,Employed,Renter
+1561,Mixed,0-17,Female,8,Unemployed,Renter
+1562,Black,31-45,Non-Binary,3,Retired,Homeless
+1563,Other,46-60,Female,2,Employed,Homeless
+1564,Asian,18-30,Non-Binary,7,Unemployed,Living with Family
+1565,White,61+,Non-Binary,9,Student,Living with Family
+1566,White,46-60,Male,1,Student,Renter
+1567,Mixed,0-17,Male,3,Employed,Owner
+1568,Black,61+,Non-Binary,5,Employed,Owner
+1569,Mixed,18-30,Non-Binary,3,Retired,Living with Family
+1570,Asian,46-60,Non-Binary,1,Student,Homeless
+1571,Mixed,61+,Non-Binary,7,Employed,Renter
+1572,White,46-60,Non-Binary,7,Student,Renter
+1573,White,46-60,Non-Binary,8,Student,Owner
+1574,Other,18-30,Female,5,Retired,Living with Family
+1575,Other,31-45,Non-Binary,5,Unemployed,Owner
+1576,Asian,61+,Female,5,Retired,Owner
+1577,Black,18-30,Female,1,Employed,Living with Family
+1578,Mixed,46-60,Non-Binary,5,Retired,Homeless
+1579,Asian,18-30,Non-Binary,6,Retired,Renter
+1580,Other,31-45,Female,1,Student,Homeless
+1581,Mixed,61+,Female,7,Retired,Living with Family
+1582,Other,31-45,Non-Binary,1,Employed,Living with Family
+1583,Mixed,0-17,Non-Binary,2,Unemployed,Renter
+1584,Black,61+,Female,2,Retired,Homeless
+1585,Asian,31-45,Female,5,Retired,Renter
+1586,Mixed,46-60,Female,7,Unemployed,Owner
+1587,White,61+,Male,1,Employed,Owner
+1588,White,61+,Female,1,Employed,Owner
+1589,Mixed,18-30,Male,1,Retired,Homeless
+1590,Mixed,46-60,Non-Binary,6,Student,Owner
+1591,Mixed,0-17,Non-Binary,2,Retired,Renter
+1592,White,31-45,Female,1,Unemployed,Homeless
+1593,White,18-30,Non-Binary,6,Unemployed,Renter
+1594,Mixed,31-45,Non-Binary,2,Unemployed,Living with Family
+1595,Other,0-17,Non-Binary,6,Retired,Homeless
+1596,Other,0-17,Non-Binary,8,Retired,Renter
+1597,Black,61+,Male,2,Employed,Renter
+1598,Asian,0-17,Male,9,Student,Homeless
+1599,Other,31-45,Female,8,Retired,Living with Family
+1600,White,46-60,Female,1,Employed,Homeless
+1601,Other,46-60,Female,7,Retired,Owner
+1602,Black,61+,Non-Binary,6,Employed,Owner
+1603,Black,31-45,Non-Binary,6,Employed,Living with Family
+1604,Asian,31-45,Male,6,Student,Renter
+1605,Other,0-17,Male,6,Retired,Renter
+1606,White,31-45,Female,7,Employed,Renter
+1607,White,18-30,Male,3,Unemployed,Homeless
+1608,Mixed,0-17,Male,6,Unemployed,Homeless
+1609,White,18-30,Male,3,Unemployed,Living with Family
+1610,Asian,61+,Male,7,Student,Owner
+1611,Asian,46-60,Male,7,Employed,Renter
+1612,White,61+,Female,8,Student,Owner
+1613,White,46-60,Female,2,Retired,Homeless
+1614,Mixed,61+,Male,9,Retired,Homeless
+1615,White,31-45,Female,5,Employed,Homeless
+1616,Mixed,18-30,Non-Binary,9,Unemployed,Owner
+1617,Mixed,46-60,Male,5,Employed,Living with Family
+1618,White,0-17,Non-Binary,7,Employed,Living with Family
+1619,Black,18-30,Female,9,Employed,Homeless
+1620,Black,0-17,Female,4,Student,Renter
+1621,Mixed,18-30,Non-Binary,2,Retired,Owner
+1622,White,18-30,Female,9,Employed,Homeless
+1623,Black,61+,Male,2,Employed,Owner
+1624,White,46-60,Non-Binary,3,Employed,Owner
+1625,White,46-60,Male,2,Student,Living with Family
+1626,White,18-30,Non-Binary,3,Student,Homeless
+1627,Other,31-45,Female,6,Student,Living with Family
+1628,White,31-45,Non-Binary,3,Employed,Homeless
+1629,Other,0-17,Non-Binary,8,Unemployed,Owner
+1630,Mixed,0-17,Male,6,Unemployed,Living with Family
+1631,Black,61+,Female,7,Unemployed,Owner
+1632,Black,18-30,Male,1,Retired,Homeless
+1633,Black,0-17,Female,3,Employed,Renter
+1634,Black,0-17,Male,3,Unemployed,Living with Family
+1635,Black,18-30,Non-Binary,2,Unemployed,Living with Family
+1636,Black,61+,Male,7,Unemployed,Owner
+1637,Black,0-17,Female,9,Employed,Owner
+1638,Mixed,61+,Female,4,Unemployed,Renter
+1639,White,46-60,Non-Binary,5,Unemployed,Living with Family
+1640,Asian,61+,Female,3,Employed,Homeless
+1641,Other,31-45,Male,9,Retired,Homeless
+1642,Asian,31-45,Non-Binary,4,Student,Living with Family
+1643,Asian,61+,Female,5,Unemployed,Living with Family
+1644,White,31-45,Female,1,Student,Living with Family
+1645,White,46-60,Male,2,Retired,Renter
+1646,White,18-30,Male,9,Retired,Homeless
+1647,Black,31-45,Non-Binary,2,Unemployed,Homeless
+1648,Mixed,31-45,Female,5,Employed,Owner
+1649,Black,61+,Male,8,Retired,Owner
+1650,Mixed,46-60,Non-Binary,3,Student,Living with Family
+1651,Mixed,18-30,Female,6,Student,Owner
+1652,Asian,61+,Female,4,Student,Renter
+1653,Asian,61+,Non-Binary,7,Student,Homeless
+1654,Mixed,46-60,Non-Binary,3,Retired,Homeless
+1655,Mixed,18-30,Male,6,Unemployed,Owner
+1656,Black,46-60,Female,9,Unemployed,Living with Family
+1657,Black,18-30,Female,1,Student,Owner
+1658,Asian,46-60,Female,3,Unemployed,Living with Family
+1659,White,61+,Non-Binary,2,Student,Renter
+1660,Mixed,61+,Male,8,Student,Homeless
+1661,Black,0-17,Female,7,Employed,Renter
+1662,Asian,31-45,Non-Binary,2,Retired,Homeless
+1663,Black,46-60,Female,6,Retired,Renter
+1664,Mixed,0-17,Male,3,Student,Owner
+1665,Mixed,31-45,Female,8,Retired,Renter
+1666,Other,46-60,Male,3,Unemployed,Renter
+1667,White,18-30,Male,9,Student,Owner
+1668,Other,31-45,Female,1,Employed,Homeless
+1669,Asian,61+,Female,5,Unemployed,Homeless
+1670,Black,0-17,Male,3,Employed,Owner
+1671,Asian,31-45,Non-Binary,6,Employed,Renter
+1672,Mixed,31-45,Male,2,Retired,Renter
+1673,Other,61+,Female,9,Retired,Renter
+1674,Other,46-60,Female,6,Student,Living with Family
+1675,Other,18-30,Non-Binary,7,Retired,Homeless
+1676,Asian,61+,Male,5,Employed,Renter
+1677,Mixed,18-30,Male,9,Employed,Homeless
+1678,Black,46-60,Male,1,Unemployed,Renter
+1679,Black,31-45,Female,5,Employed,Owner
+1680,Asian,18-30,Male,6,Student,Owner
+1681,Other,0-17,Non-Binary,7,Student,Homeless
+1682,White,0-17,Female,4,Retired,Homeless
+1683,Asian,61+,Female,1,Retired,Owner
+1684,Asian,46-60,Male,8,Retired,Living with Family
+1685,Mixed,61+,Non-Binary,4,Student,Owner
+1686,Black,61+,Female,3,Employed,Renter
+1687,Asian,61+,Female,7,Retired,Living with Family
+1688,Asian,0-17,Male,2,Unemployed,Owner
+1689,Other,0-17,Male,8,Retired,Living with Family
+1690,Other,61+,Non-Binary,6,Student,Living with Family
+1691,White,0-17,Male,7,Retired,Living with Family
+1692,Mixed,46-60,Non-Binary,5,Employed,Homeless
+1693,White,61+,Female,9,Retired,Owner
+1694,Other,0-17,Non-Binary,5,Student,Homeless
+1695,Black,18-30,Non-Binary,5,Student,Homeless
+1696,Other,61+,Non-Binary,3,Unemployed,Renter
+1697,Mixed,61+,Female,1,Student,Renter
+1698,Other,46-60,Male,2,Unemployed,Living with Family
+1699,Mixed,31-45,Female,8,Employed,Living with Family
+1700,Mixed,31-45,Male,1,Student,Renter
+1701,Mixed,46-60,Non-Binary,7,Retired,Renter
+1702,Mixed,46-60,Non-Binary,5,Employed,Owner
+1703,Mixed,46-60,Non-Binary,3,Retired,Living with Family
+1704,Black,31-45,Non-Binary,7,Retired,Living with Family
+1705,White,46-60,Non-Binary,9,Retired,Renter
+1706,Asian,0-17,Male,2,Employed,Owner
+1707,White,61+,Male,8,Employed,Renter
+1708,Mixed,61+,Non-Binary,9,Student,Renter
+1709,Black,18-30,Female,3,Retired,Homeless
+1710,Other,18-30,Female,2,Unemployed,Living with Family
+1711,Black,61+,Non-Binary,7,Student,Owner
+1712,Mixed,0-17,Male,5,Employed,Homeless
+1713,Black,31-45,Female,5,Unemployed,Living with Family
+1714,Black,31-45,Female,5,Employed,Renter
+1715,Mixed,0-17,Female,4,Unemployed,Owner
+1716,Black,31-45,Non-Binary,5,Student,Living with Family
+1717,Asian,46-60,Female,4,Unemployed,Renter
+1718,Asian,61+,Female,6,Student,Homeless
+1719,Black,61+,Female,4,Employed,Owner
+1720,Other,0-17,Female,2,Unemployed,Living with Family
+1721,Mixed,31-45,Male,9,Retired,Homeless
+1722,Asian,18-30,Non-Binary,2,Retired,Renter
+1723,Other,18-30,Non-Binary,9,Employed,Renter
+1724,Black,31-45,Male,6,Unemployed,Living with Family
+1725,Other,18-30,Male,9,Retired,Renter
+1726,White,0-17,Non-Binary,9,Student,Owner
+1727,Asian,0-17,Female,3,Unemployed,Living with Family
+1728,Black,31-45,Female,1,Unemployed,Homeless
+1729,Mixed,18-30,Non-Binary,1,Retired,Living with Family
+1730,Black,0-17,Female,3,Student,Living with Family
+1731,Mixed,0-17,Male,5,Student,Homeless
+1732,Black,46-60,Female,3,Student,Renter
+1733,Other,46-60,Female,9,Unemployed,Homeless
+1734,Other,0-17,Female,9,Employed,Owner
+1735,Other,31-45,Non-Binary,3,Unemployed,Renter
+1736,White,61+,Male,3,Unemployed,Living with Family
+1737,Mixed,61+,Female,5,Retired,Renter
+1738,Other,0-17,Non-Binary,2,Employed,Renter
+1739,White,0-17,Female,6,Student,Owner
+1740,Mixed,0-17,Male,7,Retired,Renter
+1741,Black,31-45,Female,9,Unemployed,Renter
+1742,White,46-60,Male,6,Employed,Renter
+1743,Asian,0-17,Female,3,Student,Living with Family
+1744,White,0-17,Male,5,Student,Renter
+1745,White,18-30,Female,4,Unemployed,Homeless
+1746,Mixed,31-45,Male,5,Student,Renter
+1747,Black,0-17,Female,8,Student,Owner
+1748,Asian,18-30,Female,8,Employed,Renter
+1749,Other,61+,Non-Binary,6,Retired,Renter
+1750,Other,0-17,Non-Binary,1,Employed,Living with Family
+1751,White,0-17,Male,8,Retired,Homeless
+1752,Mixed,18-30,Female,8,Retired,Renter
+1753,Mixed,31-45,Male,2,Retired,Homeless
+1754,Other,0-17,Non-Binary,4,Student,Owner
+1755,Asian,61+,Male,2,Employed,Living with Family
+1756,Black,0-17,Male,4,Student,Homeless
+1757,Asian,61+,Non-Binary,7,Unemployed,Living with Family
+1758,Black,46-60,Female,9,Employed,Renter
+1759,Other,46-60,Male,8,Retired,Owner
+1760,Black,61+,Non-Binary,9,Student,Living with Family
+1761,Mixed,31-45,Female,8,Student,Renter
+1762,White,0-17,Non-Binary,2,Employed,Homeless
+1763,White,0-17,Male,7,Employed,Owner
+1764,Other,46-60,Female,2,Retired,Owner
+1765,Mixed,61+,Female,2,Retired,Homeless
+1766,Asian,0-17,Non-Binary,4,Unemployed,Homeless
+1767,Mixed,0-17,Non-Binary,1,Retired,Owner
+1768,White,31-45,Non-Binary,5,Student,Living with Family
+1769,White,18-30,Female,6,Unemployed,Owner
+1770,Mixed,46-60,Female,9,Unemployed,Homeless
+1771,Mixed,46-60,Male,8,Unemployed,Living with Family
+1772,White,18-30,Female,2,Employed,Renter
+1773,Asian,0-17,Male,1,Retired,Owner
+1774,Other,31-45,Non-Binary,2,Unemployed,Homeless
+1775,Other,31-45,Non-Binary,7,Employed,Renter
+1776,Mixed,46-60,Female,4,Employed,Owner
+1777,Other,31-45,Non-Binary,5,Unemployed,Owner
+1778,White,18-30,Non-Binary,7,Unemployed,Living with Family
+1779,White,0-17,Female,3,Student,Homeless
+1780,Mixed,18-30,Male,2,Unemployed,Renter
+1781,Mixed,61+,Female,7,Student,Owner
+1782,Mixed,46-60,Male,5,Unemployed,Living with Family
+1783,Asian,31-45,Female,1,Unemployed,Renter
+1784,Other,61+,Female,1,Retired,Renter
+1785,Mixed,31-45,Non-Binary,9,Unemployed,Owner
+1786,Black,0-17,Female,5,Unemployed,Renter
+1787,Black,0-17,Female,1,Student,Owner
+1788,White,0-17,Male,7,Student,Living with Family
+1789,Other,31-45,Non-Binary,9,Retired,Living with Family
+1790,Mixed,61+,Male,1,Unemployed,Renter
+1791,Black,0-17,Male,4,Unemployed,Owner
+1792,Other,61+,Non-Binary,3,Student,Homeless
+1793,White,31-45,Non-Binary,5,Employed,Living with Family
+1794,Asian,61+,Non-Binary,7,Employed,Owner
+1795,Other,31-45,Female,8,Employed,Owner
+1796,Other,31-45,Non-Binary,2,Student,Owner
+1797,Asian,46-60,Non-Binary,7,Student,Renter
+1798,Other,31-45,Non-Binary,1,Employed,Homeless
+1799,White,31-45,Male,7,Employed,Renter
+1800,White,18-30,Male,8,Unemployed,Living with Family
+1801,Asian,0-17,Female,2,Student,Renter
+1802,Mixed,46-60,Male,9,Student,Owner
+1803,Black,46-60,Female,1,Employed,Renter
+1804,Mixed,46-60,Male,6,Employed,Owner
+1805,Other,18-30,Non-Binary,1,Retired,Homeless
+1806,Black,31-45,Male,3,Student,Renter
+1807,Asian,0-17,Female,6,Retired,Renter
+1808,Asian,61+,Male,3,Unemployed,Renter
+1809,Black,31-45,Non-Binary,8,Retired,Owner
+1810,White,18-30,Female,5,Employed,Owner
+1811,Black,31-45,Non-Binary,2,Student,Renter
+1812,Other,31-45,Non-Binary,4,Student,Renter
+1813,White,18-30,Female,9,Retired,Homeless
+1814,Asian,46-60,Non-Binary,4,Retired,Homeless
+1815,Black,46-60,Non-Binary,8,Unemployed,Living with Family
+1816,Mixed,0-17,Male,5,Unemployed,Homeless
+1817,Mixed,0-17,Non-Binary,1,Employed,Homeless
+1818,Other,46-60,Non-Binary,7,Employed,Homeless
+1819,Mixed,61+,Non-Binary,3,Employed,Owner
+1820,Black,31-45,Non-Binary,8,Retired,Homeless
+1821,Black,61+,Female,3,Retired,Homeless
+1822,Mixed,31-45,Male,1,Student,Renter
+1823,Black,46-60,Non-Binary,5,Employed,Owner
+1824,Other,0-17,Non-Binary,2,Retired,Living with Family
+1825,White,0-17,Female,4,Student,Living with Family
+1826,Other,61+,Non-Binary,1,Employed,Homeless
+1827,Other,0-17,Female,9,Unemployed,Living with Family
+1828,Black,46-60,Male,6,Unemployed,Living with Family
+1829,White,61+,Male,8,Retired,Living with Family
+1830,Black,31-45,Non-Binary,4,Student,Homeless
+1831,Asian,0-17,Non-Binary,9,Unemployed,Living with Family
+1832,Black,18-30,Non-Binary,2,Student,Homeless
+1833,Black,0-17,Female,9,Student,Renter
+1834,Black,31-45,Non-Binary,5,Unemployed,Renter
+1835,White,61+,Non-Binary,6,Student,Living with Family
+1836,Black,31-45,Male,3,Unemployed,Renter
+1837,White,18-30,Non-Binary,4,Retired,Homeless
+1838,Mixed,46-60,Male,6,Employed,Renter
+1839,Asian,0-17,Non-Binary,7,Employed,Living with Family
+1840,White,61+,Male,1,Retired,Homeless
+1841,Mixed,46-60,Non-Binary,7,Unemployed,Owner
+1842,White,31-45,Male,1,Unemployed,Homeless
+1843,White,61+,Female,5,Unemployed,Renter
+1844,Asian,46-60,Male,6,Unemployed,Owner
+1845,Other,61+,Male,2,Retired,Homeless
+1846,Other,18-30,Male,9,Employed,Owner
+1847,White,18-30,Non-Binary,6,Student,Owner
+1848,Black,0-17,Non-Binary,7,Student,Owner
+1849,Mixed,0-17,Non-Binary,8,Employed,Homeless
+1850,Black,18-30,Female,1,Retired,Renter
+1851,Black,61+,Female,8,Student,Homeless
+1852,White,18-30,Male,4,Employed,Renter
+1853,White,0-17,Female,8,Retired,Homeless
+1854,White,18-30,Male,6,Student,Homeless
+1855,White,18-30,Male,9,Unemployed,Homeless
+1856,Other,61+,Male,4,Unemployed,Renter
+1857,White,46-60,Female,2,Retired,Homeless
+1858,Other,0-17,Non-Binary,2,Unemployed,Owner
+1859,Other,61+,Female,5,Retired,Homeless
+1860,White,18-30,Male,9,Employed,Owner
+1861,Asian,18-30,Male,3,Employed,Living with Family
+1862,Mixed,46-60,Female,8,Student,Living with Family
+1863,Black,0-17,Male,4,Retired,Renter
+1864,Other,0-17,Male,6,Student,Renter
+1865,Mixed,31-45,Female,6,Student,Living with Family
+1866,Asian,0-17,Female,3,Employed,Homeless
+1867,Black,46-60,Female,5,Student,Homeless
+1868,Black,31-45,Male,3,Unemployed,Homeless
+1869,Other,31-45,Male,1,Student,Living with Family
+1870,White,18-30,Non-Binary,7,Retired,Owner
+1871,Asian,18-30,Non-Binary,4,Unemployed,Renter
+1872,Other,0-17,Female,7,Employed,Owner
+1873,Asian,31-45,Non-Binary,3,Retired,Living with Family
+1874,White,18-30,Male,5,Unemployed,Owner
+1875,White,46-60,Non-Binary,5,Retired,Homeless
+1876,Other,18-30,Male,2,Unemployed,Homeless
+1877,White,18-30,Female,2,Retired,Owner
+1878,Mixed,31-45,Female,4,Retired,Living with Family
+1879,Black,31-45,Male,4,Unemployed,Owner
+1880,Other,61+,Non-Binary,4,Employed,Homeless
+1881,Asian,46-60,Female,6,Employed,Homeless
+1882,Mixed,31-45,Female,2,Retired,Living with Family
+1883,Other,0-17,Non-Binary,6,Retired,Owner
+1884,White,46-60,Non-Binary,7,Employed,Homeless
+1885,White,46-60,Male,3,Employed,Homeless
+1886,White,31-45,Non-Binary,8,Student,Owner
+1887,White,46-60,Non-Binary,2,Employed,Owner
+1888,Asian,31-45,Non-Binary,8,Retired,Renter
+1889,Mixed,18-30,Male,5,Unemployed,Living with Family
+1890,Black,61+,Male,2,Employed,Living with Family
+1891,Asian,18-30,Female,7,Student,Owner
+1892,Asian,31-45,Male,2,Student,Living with Family
+1893,Black,31-45,Female,6,Student,Homeless
+1894,Black,18-30,Non-Binary,3,Unemployed,Owner
+1895,White,0-17,Female,9,Employed,Owner
+1896,Asian,0-17,Female,3,Employed,Owner
+1897,Other,0-17,Non-Binary,3,Employed,Renter
+1898,Black,31-45,Female,5,Unemployed,Living with Family
+1899,Black,46-60,Male,7,Unemployed,Renter
+1900,Mixed,31-45,Male,8,Retired,Homeless
+1901,Other,46-60,Male,7,Student,Living with Family
+1902,Other,18-30,Male,9,Student,Renter
+1903,Black,61+,Female,5,Employed,Owner
+1904,White,46-60,Female,3,Unemployed,Renter
+1905,Mixed,0-17,Non-Binary,6,Unemployed,Owner
+1906,Other,31-45,Female,5,Employed,Renter
+1907,Black,18-30,Female,4,Employed,Renter
+1908,Other,0-17,Female,2,Retired,Renter
+1909,Mixed,18-30,Non-Binary,7,Student,Owner
+1910,Mixed,61+,Male,5,Student,Renter
+1911,Asian,31-45,Female,4,Student,Living with Family
+1912,Black,31-45,Non-Binary,8,Retired,Living with Family
+1913,Mixed,61+,Non-Binary,9,Employed,Living with Family
+1914,Asian,31-45,Non-Binary,9,Employed,Owner
+1915,Asian,46-60,Male,3,Student,Owner
+1916,Other,18-30,Female,3,Student,Living with Family
+1917,Other,0-17,Non-Binary,5,Retired,Living with Family
+1918,Asian,61+,Male,5,Unemployed,Living with Family
+1919,Other,46-60,Non-Binary,2,Unemployed,Homeless
+1920,Mixed,0-17,Non-Binary,1,Student,Living with Family
+1921,White,0-17,Non-Binary,8,Retired,Renter
+1922,Mixed,61+,Non-Binary,3,Student,Homeless
+1923,Asian,46-60,Non-Binary,1,Unemployed,Homeless
+1924,Asian,0-17,Male,1,Student,Owner
+1925,Mixed,0-17,Female,2,Unemployed,Renter
+1926,Other,46-60,Female,6,Unemployed,Owner
+1927,Other,31-45,Female,6,Unemployed,Owner
+1928,Asian,0-17,Female,3,Employed,Renter
+1929,Black,18-30,Male,4,Employed,Owner
+1930,Other,46-60,Male,2,Student,Renter
+1931,Mixed,0-17,Male,2,Unemployed,Renter
+1932,Other,61+,Non-Binary,7,Employed,Owner
+1933,Mixed,18-30,Non-Binary,1,Student,Living with Family
+1934,Asian,0-17,Non-Binary,7,Student,Owner
+1935,Other,18-30,Female,1,Student,Homeless
+1936,Mixed,18-30,Non-Binary,6,Student,Owner
+1937,Asian,31-45,Female,3,Student,Renter
+1938,Black,18-30,Non-Binary,8,Retired,Homeless
+1939,Mixed,31-45,Female,6,Unemployed,Renter
+1940,Black,46-60,Non-Binary,2,Student,Living with Family
+1941,Black,31-45,Non-Binary,8,Retired,Living with Family
+1942,White,61+,Male,5,Unemployed,Homeless
+1943,Other,0-17,Non-Binary,8,Employed,Living with Family
+1944,Mixed,46-60,Non-Binary,8,Student,Living with Family
+1945,Black,46-60,Male,6,Retired,Owner
+1946,White,61+,Female,2,Employed,Owner
+1947,Asian,31-45,Male,8,Retired,Living with Family
+1948,Mixed,0-17,Male,6,Unemployed,Living with Family
+1949,Black,31-45,Female,6,Unemployed,Owner
+1950,Other,18-30,Non-Binary,8,Employed,Living with Family
+1951,White,31-45,Female,1,Retired,Living with Family
+1952,Black,46-60,Non-Binary,2,Student,Renter
+1953,Other,0-17,Non-Binary,9,Student,Living with Family
+1954,Black,31-45,Female,8,Employed,Homeless
+1955,Mixed,0-17,Male,7,Employed,Renter
+1956,Mixed,0-17,Female,7,Employed,Homeless
+1957,Mixed,18-30,Non-Binary,5,Retired,Living with Family
+1958,White,18-30,Female,2,Student,Owner
+1959,Mixed,46-60,Female,6,Student,Renter
+1960,Other,61+,Non-Binary,3,Student,Owner
+1961,Black,0-17,Male,4,Employed,Renter
+1962,Asian,61+,Female,2,Student,Owner
+1963,Other,46-60,Non-Binary,2,Unemployed,Renter
+1964,Other,0-17,Non-Binary,8,Employed,Renter
+1965,Mixed,0-17,Female,8,Student,Homeless
+1966,White,61+,Male,6,Retired,Owner
+1967,Black,31-45,Female,5,Employed,Homeless
+1968,White,18-30,Male,8,Unemployed,Homeless
+1969,Black,31-45,Male,4,Unemployed,Owner
+1970,Black,61+,Male,4,Retired,Renter
+1971,White,18-30,Male,5,Retired,Homeless
+1972,Other,31-45,Female,1,Employed,Owner
+1973,Black,18-30,Non-Binary,1,Employed,Renter
+1974,White,0-17,Non-Binary,2,Unemployed,Homeless
+1975,Black,31-45,Non-Binary,8,Retired,Homeless
+1976,Asian,18-30,Non-Binary,7,Employed,Homeless
+1977,Other,18-30,Non-Binary,9,Unemployed,Renter
+1978,Mixed,18-30,Non-Binary,5,Retired,Homeless
+1979,Black,31-45,Female,2,Unemployed,Renter
+1980,Asian,46-60,Male,7,Student,Living with Family
+1981,Mixed,31-45,Non-Binary,8,Retired,Homeless
+1982,Mixed,61+,Female,7,Employed,Living with Family
+1983,Black,31-45,Non-Binary,7,Employed,Owner
+1984,White,18-30,Non-Binary,5,Student,Homeless
+1985,Black,0-17,Male,2,Retired,Owner
+1986,Asian,31-45,Male,6,Unemployed,Owner
+1987,Mixed,31-45,Male,4,Employed,Owner
+1988,Black,18-30,Non-Binary,2,Student,Living with Family
+1989,White,0-17,Non-Binary,9,Student,Renter
+1990,Black,0-17,Non-Binary,7,Retired,Living with Family
+1991,Other,61+,Male,6,Retired,Living with Family
+1992,White,31-45,Female,5,Employed,Owner
+1993,Asian,0-17,Non-Binary,3,Student,Homeless
+1994,Mixed,0-17,Non-Binary,4,Unemployed,Renter
+1995,Black,46-60,Non-Binary,3,Student,Owner
+1996,White,46-60,Female,8,Unemployed,Renter
+1997,Other,0-17,Non-Binary,3,Unemployed,Living with Family
+1998,White,61+,Female,7,Employed,Renter
+1999,Other,0-17,Non-Binary,7,Student,Renter
+2000,Asian,18-30,Female,7,Unemployed,Homeless
